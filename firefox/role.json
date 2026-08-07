@@ -1,0 +1,22 @@
+{
+    "vader": {
+        "browser": "Firefox",
+        "csp_start": 600,
+        "csp_end": 1049
+    },
+    "nadia": {
+        "browser": "Firefox",
+        "csp_start": 0,
+        "csp_end": 599
+    },
+    "grogu": {
+        "browser": "Firefox",
+	"csp_start": 1050,
+	"csp_end": 1299
+    },
+    "rey": {
+    	"browser": "Firefox",
+        "csp_start": 1300,
+	"csp_end": 1530
+    }
+}

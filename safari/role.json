@@ -1,0 +1,17 @@
+{
+    "rey": {
+        "browser": "Safari",
+        "csp_start": 0,
+        "csp_end": 599
+    },
+    "vader": {
+        "browser": "Safari",
+        "csp_start": 600,
+        "csp_end": 1049
+    },
+    "grogu": {
+        "browser": "Safari",
+        "csp_start": 1050,
+        "csp_end": 1530
+    }
+}

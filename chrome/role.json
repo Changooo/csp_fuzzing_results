@@ -1,0 +1,17 @@
+{
+ "odin": {
+        "browser": "Chrome",
+        "csp_start": 0,
+        "csp_end": 599
+    },
+    "loki": {
+        "browser": "Chrome",
+        "csp_start": 600,
+        "csp_end": 1049
+    },
+    "thor": {
+        "browser": "Chrome",
+        "csp_start": 1050,
+        "csp_end": 1530
+    }
+}
