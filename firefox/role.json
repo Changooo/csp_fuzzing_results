@@ -7,7 +7,12 @@
     "nadia": {
         "browser": "Firefox",
         "csp_start": 0,
-        "csp_end": 599
+        "csp_end": 479
+    },
+    "odin":{
+	"browser": "Firefox",
+	"csp_start": 480,
+	"csp_end": 599
     },
     "grogu": {
         "browser": "Firefox",
@@ -17,6 +22,6 @@
     "rey": {
     	"browser": "Firefox",
         "csp_start": 1300,
-	"csp_end": 1530
+	"csp_end": 1529
     }
 }
