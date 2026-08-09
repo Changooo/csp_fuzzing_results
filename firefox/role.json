@@ -2,7 +2,7 @@
     "vader": {
         "browser": "Firefox",
         "csp_start": 600,
-        "csp_end": 1049
+        "csp_end": 989
     },
     "nadia": {
         "browser": "Firefox",
@@ -23,5 +23,10 @@
     	"browser": "Firefox",
         "csp_start": 1300,
 	"csp_end": 1529
+    },
+    "rey": {
+        "browser": "Firefox",
+        "csp_start": 990,
+        "csp_end": 1049
     }
 }
