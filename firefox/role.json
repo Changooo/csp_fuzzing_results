@@ -10,19 +10,19 @@
         "csp_end": 479
     },
     "odin":{
-	"browser": "Firefox",
-	"csp_start": 480,
-	"csp_end": 599
+        "browser": "Firefox",
+        "csp_start": 480,
+        "csp_end": 599
     },
     "grogu": {
         "browser": "Firefox",
-	"csp_start": 1050,
-	"csp_end": 1299
+        "csp_start": 1050,
+        "csp_end": 1299
     },
     "rey": {
     	"browser": "Firefox",
         "csp_start": 1300,
-	"csp_end": 1529
+	    "csp_end": 1529
     },
     "rey2": {
         "browser": "Firefox",
