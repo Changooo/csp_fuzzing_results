@@ -1,0 +1,17 @@
+Safari
+rey 0
+nadia 134
+
+Firefox
+grogu 0
+vader 134
+
+
+Chrome
+odin 0
+loki 100
+thor 200
+
+
+
+
