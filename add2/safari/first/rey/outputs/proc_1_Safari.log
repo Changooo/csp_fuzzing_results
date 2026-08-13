@@ -1,0 +1,2305 @@
+=========Notice: Full run mode=========
+current_playwright_page_split_num is 1
+=======================================
+🏊 create_context_pools[first] (5x16): 1.787s
+Testing: csp_id=1, page_id=0, browser=Safari
+Testing: csp_id=1, page_id=100, browser=Safari
+Testing: csp_id=1, page_id=200, browser=Safari
+Testing: csp_id=1, page_id=300, browser=Safari
+Testing: csp_id=1, page_id=400, browser=Safari
+Testing: csp_id=1, page_id=500, browser=Safari
+Testing: csp_id=1, page_id=600, browser=Safari
+Testing: csp_id=1, page_id=700, browser=Safari
+Testing: csp_id=1, page_id=800, browser=Safari
+Testing: csp_id=1, page_id=900, browser=Safari
+Testing: csp_id=1, page_id=1000, browser=Safari
+Testing: csp_id=1, page_id=1100, browser=Safari
+Testing: csp_id=1, page_id=1200, browser=Safari
+Testing: csp_id=1, page_id=1300, browser=Safari
+Testing: csp_id=1, page_id=1400, browser=Safari
+Testing: csp_id=1, page_id=1500, browser=Safari
+Testing: csp_id=1, page_id=1600, browser=Safari
+Testing: csp_id=1, page_id=1700, browser=Safari
+Testing: csp_id=1, page_id=1800, browser=Safari
+Testing: csp_id=1, page_id=1900, browser=Safari
+Testing: csp_id=1, page_id=2000, browser=Safari
+Testing: csp_id=1, page_id=2100, browser=Safari
+Testing: csp_id=1, page_id=2200, browser=Safari
+Testing: csp_id=1, page_id=2300, browser=Safari
+Testing: csp_id=1, page_id=2400, browser=Safari
+Testing: csp_id=1, page_id=2500, browser=Safari
+Testing: csp_id=1, page_id=2600, browser=Safari
+Testing: csp_id=1, page_id=2700, browser=Safari
+Testing: csp_id=1, page_id=2800, browser=Safari
+Testing: csp_id=1, page_id=2900, browser=Safari
+Testing: csp_id=1, page_id=3000, browser=Safari
+Testing: csp_id=1, page_id=3100, browser=Safari
+Testing: csp_id=1, page_id=3200, browser=Safari
+Testing: csp_id=1, page_id=3300, browser=Safari
+Testing: csp_id=1, page_id=3400, browser=Safari
+Testing: csp_id=1, page_id=3500, browser=Safari
+Testing: csp_id=1, page_id=3600, browser=Safari
+Testing: csp_id=1, page_id=3700, browser=Safari
+Testing: csp_id=1, page_id=3800, browser=Safari
+Testing: csp_id=1, page_id=3900, browser=Safari
+Testing: csp_id=1, page_id=4000, browser=Safari
+Testing: csp_id=1, page_id=4100, browser=Safari
+Testing: csp_id=1, page_id=4200, browser=Safari
+Testing: csp_id=1, page_id=4300, browser=Safari
+Testing: csp_id=1, page_id=4400, browser=Safari
+Testing: csp_id=1, page_id=4500, browser=Safari
+Testing: csp_id=1, page_id=4600, browser=Safari
+Testing: csp_id=1, page_id=4700, browser=Safari
+Testing: csp_id=1, page_id=4800, browser=Safari
+Testing: csp_id=1, page_id=4900, browser=Safari
+Testing: csp_id=1, page_id=5000, browser=Safari
+Testing: csp_id=1, page_id=5100, browser=Safari
+Testing: csp_id=1, page_id=5200, browser=Safari
+Testing: csp_id=1, page_id=5300, browser=Safari
+Testing: csp_id=1, page_id=5400, browser=Safari
+Testing: csp_id=1, page_id=5500, browser=Safari
+Testing: csp_id=1, page_id=5600, browser=Safari
+Testing: csp_id=1, page_id=5700, browser=Safari
+Testing: csp_id=1, page_id=5800, browser=Safari
+Testing: csp_id=1, page_id=5900, browser=Safari
+Testing: csp_id=1, page_id=6000, browser=Safari
+Testing: csp_id=1, page_id=6100, browser=Safari
+Testing: csp_id=1, page_id=6200, browser=Safari
+Testing: csp_id=1, page_id=6300, browser=Safari
+Testing: csp_id=1, page_id=6400, browser=Safari
+Testing: csp_id=1, page_id=6500, browser=Safari
+Testing: csp_id=1, page_id=6600, browser=Safari
+Testing: csp_id=1, page_id=6700, browser=Safari
+Testing: csp_id=1, page_id=6800, browser=Safari
+Testing: csp_id=1, page_id=6900, browser=Safari
+Testing: csp_id=1, page_id=7000, browser=Safari
+Testing: csp_id=1, page_id=7100, browser=Safari
+Testing: csp_id=1, page_id=7200, browser=Safari
+Testing: csp_id=1, page_id=7300, browser=Safari
+Testing: csp_id=1, page_id=7400, browser=Safari
+Testing: csp_id=1, page_id=7500, browser=Safari
+Testing: csp_id=1, page_id=7600, browser=Safari
+Testing: csp_id=1, page_id=7700, browser=Safari
+Testing: csp_id=1, page_id=7800, browser=Safari
+Testing: csp_id=1, page_id=7900, browser=Safari
+Testing: csp_id=1, page_id=8000, browser=Safari
+Testing: csp_id=1, page_id=8100, browser=Safari
+Testing: csp_id=1, page_id=8200, browser=Safari
+Testing: csp_id=1, page_id=8300, browser=Safari
+Testing: csp_id=1, page_id=8400, browser=Safari
+Testing: csp_id=1, page_id=8500, browser=Safari
+Testing: csp_id=1, page_id=8600, browser=Safari
+Testing: csp_id=1, page_id=8700, browser=Safari
+Testing: csp_id=1, page_id=8800, browser=Safari
+Testing: csp_id=1, page_id=8900, browser=Safari
+Testing: csp_id=1, page_id=9000, browser=Safari
+Testing: csp_id=1, page_id=9100, browser=Safari
+Testing: csp_id=1, page_id=9200, browser=Safari
+Testing: csp_id=1, page_id=9300, browser=Safari
+Testing: csp_id=1, page_id=9400, browser=Safari
+Testing: csp_id=1, page_id=9500, browser=Safari
+Testing: csp_id=1, page_id=9600, browser=Safari
+Testing: csp_id=1, page_id=9700, browser=Safari
+Testing: csp_id=1, page_id=9800, browser=Safari
+Testing: csp_id=1, page_id=9900, browser=Safari
+Testing: csp_id=1, page_id=10000, browser=Safari
+Testing: csp_id=1, page_id=10100, browser=Safari
+Testing: csp_id=1, page_id=10200, browser=Safari
+Testing: csp_id=1, page_id=10300, browser=Safari
+Testing: csp_id=1, page_id=10400, browser=Safari
+Testing: csp_id=1, page_id=10500, browser=Safari
+Testing: csp_id=1, page_id=10600, browser=Safari
+Testing: csp_id=1, page_id=10700, browser=Safari
+Testing: csp_id=1, page_id=10800, browser=Safari
+Testing: csp_id=1, page_id=10900, browser=Safari
+Testing: csp_id=1, page_id=11000, browser=Safari
+Testing: csp_id=1, page_id=11100, browser=Safari
+Testing: csp_id=1, page_id=11200, browser=Safari
+Testing: csp_id=1, page_id=11300, browser=Safari
+Testing: csp_id=1, page_id=11400, browser=Safari
+Testing: csp_id=1, page_id=11500, browser=Safari
+Testing: csp_id=1, page_id=11600, browser=Safari
+Testing: csp_id=1, page_id=11700, browser=Safari
+Testing: csp_id=1, page_id=11800, browser=Safari
+Testing: csp_id=1, page_id=11900, browser=Safari
+Testing: csp_id=1, page_id=12000, browser=Safari
+Testing: csp_id=1, page_id=12100, browser=Safari
+Testing: csp_id=1, page_id=12200, browser=Safari
+Testing: csp_id=1, page_id=12300, browser=Safari
+Testing: csp_id=1, page_id=12400, browser=Safari
+Testing: csp_id=1, page_id=12500, browser=Safari
+Testing: csp_id=1, page_id=12600, browser=Safari
+Testing: csp_id=1, page_id=12700, browser=Safari
+Testing: csp_id=1, page_id=12800, browser=Safari
+Testing: csp_id=1, page_id=12900, browser=Safari
+Testing: csp_id=1, page_id=13000, browser=Safari
+Testing: csp_id=1, page_id=13100, browser=Safari
+Testing: csp_id=1, page_id=13200, browser=Safari
+Testing: csp_id=1, page_id=13300, browser=Safari
+Testing: csp_id=1, page_id=13400, browser=Safari
+Testing: csp_id=1, page_id=13500, browser=Safari
+Testing: csp_id=1, page_id=13600, browser=Safari
+Testing: csp_id=1, page_id=13700, browser=Safari
+Testing: csp_id=1, page_id=13800, browser=Safari
+Testing: csp_id=1, page_id=13900, browser=Safari
+Testing: csp_id=1, page_id=14000, browser=Safari
+Testing: csp_id=1, page_id=14100, browser=Safari
+Testing: csp_id=1, page_id=14200, browser=Safari
+Testing: csp_id=1, page_id=14300, browser=Safari
+Testing: csp_id=1, page_id=14400, browser=Safari
+Testing: csp_id=1, page_id=14500, browser=Safari
+Testing: csp_id=1, page_id=14600, browser=Safari
+Testing: csp_id=1, page_id=14700, browser=Safari
+Testing: csp_id=1, page_id=14800, browser=Safari
+Testing: csp_id=1, page_id=14900, browser=Safari
+Testing: csp_id=1, page_id=15000, browser=Safari
+Testing: csp_id=1, page_id=15100, browser=Safari
+Testing: csp_id=1, page_id=15200, browser=Safari
+Testing: csp_id=1, page_id=15300, browser=Safari
+Testing: csp_id=1, page_id=15400, browser=Safari
+Testing: csp_id=1, page_id=15500, browser=Safari
+Testing: csp_id=1, page_id=15600, browser=Safari
+Testing: csp_id=1, page_id=15700, browser=Safari
+Testing: csp_id=1, page_id=15800, browser=Safari
+Testing: csp_id=1, page_id=15900, browser=Safari
+Testing: csp_id=1, page_id=16000, browser=Safari
+Testing: csp_id=1, page_id=16100, browser=Safari
+Testing: csp_id=1, page_id=16200, browser=Safari
+Testing: csp_id=1, page_id=16300, browser=Safari
+Testing: csp_id=1, page_id=16400, browser=Safari
+Testing: csp_id=1, page_id=16500, browser=Safari
+Testing: csp_id=1, page_id=16600, browser=Safari
+Testing: csp_id=1, page_id=16700, browser=Safari
+Testing: csp_id=1, page_id=16800, browser=Safari
+Testing: csp_id=1, page_id=16900, browser=Safari
+Testing: csp_id=1, page_id=17000, browser=Safari
+Testing: csp_id=1, page_id=17100, browser=Safari
+Testing: csp_id=1, page_id=17200, browser=Safari
+Testing: csp_id=1, page_id=17300, browser=Safari
+Testing: csp_id=1, page_id=17400, browser=Safari
+Testing: csp_id=1, page_id=17500, browser=Safari
+Testing: csp_id=1, page_id=17600, browser=Safari
+Testing: csp_id=1, page_id=17700, browser=Safari
+Testing: csp_id=1, page_id=17800, browser=Safari
+Testing: csp_id=1, page_id=17900, browser=Safari
+Testing: csp_id=1, page_id=18000, browser=Safari
+Testing: csp_id=1, page_id=18100, browser=Safari
+Testing: csp_id=1, page_id=18200, browser=Safari
+Testing: csp_id=1, page_id=18300, browser=Safari
+Testing: csp_id=1, page_id=18400, browser=Safari
+Testing: csp_id=1, page_id=18500, browser=Safari
+Testing: csp_id=1, page_id=18600, browser=Safari
+Testing: csp_id=1, page_id=18700, browser=Safari
+Testing: csp_id=1, page_id=18800, browser=Safari
+Testing: csp_id=1, page_id=18900, browser=Safari
+Testing: csp_id=1, page_id=19000, browser=Safari
+Testing: csp_id=1, page_id=19100, browser=Safari
+Testing: csp_id=1, page_id=19200, browser=Safari
+Testing: csp_id=1, page_id=19300, browser=Safari
+Testing: csp_id=1, page_id=19400, browser=Safari
+Testing: csp_id=1, page_id=19500, browser=Safari
+Testing: csp_id=1, page_id=19600, browser=Safari
+Testing: csp_id=1, page_id=19700, browser=Safari
+Testing: csp_id=1, page_id=19800, browser=Safari
+Testing: csp_id=1, page_id=19900, browser=Safari
+Testing: csp_id=1, page_id=20000, browser=Safari
+Testing: csp_id=1, page_id=20100, browser=Safari
+Testing: csp_id=1, page_id=20200, browser=Safari
+Testing: csp_id=1, page_id=20300, browser=Safari
+Testing: csp_id=1, page_id=20400, browser=Safari
+Testing: csp_id=1, page_id=20500, browser=Safari
+Testing: csp_id=1, page_id=20600, browser=Safari
+Testing: csp_id=1, page_id=20700, browser=Safari
+Testing: csp_id=1, page_id=20800, browser=Safari
+Testing: csp_id=1, page_id=20900, browser=Safari
+Testing: csp_id=1, page_id=21000, browser=Safari
+Testing: csp_id=1, page_id=21100, browser=Safari
+Testing: csp_id=1, page_id=21200, browser=Safari
+Testing: csp_id=1, page_id=21300, browser=Safari
+Testing: csp_id=1, page_id=21400, browser=Safari
+Testing: csp_id=1, page_id=21500, browser=Safari
+Testing: csp_id=1, page_id=21600, browser=Safari
+Testing: csp_id=1, page_id=21700, browser=Safari
+Testing: csp_id=1, page_id=21800, browser=Safari
+Testing: csp_id=1, page_id=21900, browser=Safari
+Testing: csp_id=1, page_id=22000, browser=Safari
+Testing: csp_id=1, page_id=22100, browser=Safari
+Testing: csp_id=1, page_id=22200, browser=Safari
+Testing: csp_id=1, page_id=22300, browser=Safari
+Testing: csp_id=1, page_id=22400, browser=Safari
+Testing: csp_id=1, page_id=22500, browser=Safari
+Testing: csp_id=1, page_id=22600, browser=Safari
+Testing: csp_id=1, page_id=22700, browser=Safari
+Testing: csp_id=1, page_id=22800, browser=Safari
+Testing: csp_id=1, page_id=22900, browser=Safari
+Testing: csp_id=1, page_id=23000, browser=Safari
+Testing: csp_id=1, page_id=23100, browser=Safari
+Testing: csp_id=1, page_id=23200, browser=Safari
+Testing: csp_id=1, page_id=23300, browser=Safari
+Testing: csp_id=1, page_id=23400, browser=Safari
+Testing: csp_id=1, page_id=23500, browser=Safari
+Testing: csp_id=1, page_id=23600, browser=Safari
+Testing: csp_id=1, page_id=23700, browser=Safari
+Testing: csp_id=1, page_id=23800, browser=Safari
+Testing: csp_id=1, page_id=23900, browser=Safari
+Testing: csp_id=1, page_id=24000, browser=Safari
+Testing: csp_id=1, page_id=24100, browser=Safari
+Testing: csp_id=1, page_id=24200, browser=Safari
+Testing: csp_id=1, page_id=24300, browser=Safari
+Testing: csp_id=1, page_id=24400, browser=Safari
+Testing: csp_id=1, page_id=24500, browser=Safari
+Testing: csp_id=1, page_id=24600, browser=Safari
+Testing: csp_id=1, page_id=24700, browser=Safari
+Testing: csp_id=1, page_id=24800, browser=Safari
+Testing: csp_id=1, page_id=24900, browser=Safari
+Testing: csp_id=1, page_id=25000, browser=Safari
+Testing: csp_id=1, page_id=25100, browser=Safari
+Testing: csp_id=1, page_id=25200, browser=Safari
+Testing: csp_id=1, page_id=25300, browser=Safari
+Testing: csp_id=1, page_id=25400, browser=Safari
+Testing: csp_id=1, page_id=25500, browser=Safari
+Testing: csp_id=1, page_id=25600, browser=Safari
+Testing: csp_id=1, page_id=25700, browser=Safari
+Testing: csp_id=1, page_id=25800, browser=Safari
+Testing: csp_id=1, page_id=25900, browser=Safari
+Testing: csp_id=1, page_id=26000, browser=Safari
+Testing: csp_id=1, page_id=26100, browser=Safari
+Testing: csp_id=1, page_id=26200, browser=Safari
+Testing: csp_id=1, page_id=26300, browser=Safari
+Testing: csp_id=1, page_id=26400, browser=Safari
+Testing: csp_id=1, page_id=26500, browser=Safari
+Testing: csp_id=1, page_id=26600, browser=Safari
+Testing: csp_id=1, page_id=26700, browser=Safari
+Testing: csp_id=1, page_id=26800, browser=Safari
+Testing: csp_id=1, page_id=26900, browser=Safari
+Testing: csp_id=1, page_id=27000, browser=Safari
+Testing: csp_id=1, page_id=27100, browser=Safari
+Testing: csp_id=1, page_id=27200, browser=Safari
+Testing: csp_id=1, page_id=27300, browser=Safari
+Testing: csp_id=1, page_id=27400, browser=Safari
+Testing: csp_id=1, page_id=27500, browser=Safari
+Testing: csp_id=1, page_id=27600, browser=Safari
+Testing: csp_id=1, page_id=27700, browser=Safari
+Testing: csp_id=1, page_id=27800, browser=Safari
+Testing: csp_id=1, page_id=27900, browser=Safari
+Testing: csp_id=1, page_id=28000, browser=Safari
+Testing: csp_id=1, page_id=28100, browser=Safari
+Testing: csp_id=1, page_id=28200, browser=Safari
+Testing: csp_id=1, page_id=28300, browser=Safari
+Testing: csp_id=1, page_id=28400, browser=Safari
+Testing: csp_id=1, page_id=28500, browser=Safari
+Testing: csp_id=1, page_id=28600, browser=Safari
+Testing: csp_id=1, page_id=28700, browser=Safari
+Testing: csp_id=1, page_id=28800, browser=Safari
+Testing: csp_id=1, page_id=28900, browser=Safari
+Testing: csp_id=1, page_id=29000, browser=Safari
+Testing: csp_id=1, page_id=29100, browser=Safari
+Testing: csp_id=1, page_id=29200, browser=Safari
+Testing: csp_id=1, page_id=29300, browser=Safari
+Testing: csp_id=1, page_id=29400, browser=Safari
+Testing: csp_id=1, page_id=29500, browser=Safari
+Testing: csp_id=1, page_id=29600, browser=Safari
+Testing: csp_id=1, page_id=29700, browser=Safari
+Testing: csp_id=1, page_id=29800, browser=Safari
+🏊 create_context_pools[first] (5x16): 1.392s
+Testing: csp_id=12, page_id=0, browser=Safari
+Testing: csp_id=12, page_id=100, browser=Safari
+Testing: csp_id=12, page_id=200, browser=Safari
+Testing: csp_id=12, page_id=300, browser=Safari
+Testing: csp_id=12, page_id=400, browser=Safari
+Testing: csp_id=12, page_id=500, browser=Safari
+Testing: csp_id=12, page_id=600, browser=Safari
+Testing: csp_id=12, page_id=700, browser=Safari
+Testing: csp_id=12, page_id=800, browser=Safari
+Testing: csp_id=12, page_id=900, browser=Safari
+Testing: csp_id=12, page_id=1000, browser=Safari
+Testing: csp_id=12, page_id=1100, browser=Safari
+Testing: csp_id=12, page_id=1200, browser=Safari
+Testing: csp_id=12, page_id=1300, browser=Safari
+Testing: csp_id=12, page_id=1400, browser=Safari
+Testing: csp_id=12, page_id=1500, browser=Safari
+Testing: csp_id=12, page_id=1600, browser=Safari
+Testing: csp_id=12, page_id=1700, browser=Safari
+Testing: csp_id=12, page_id=1800, browser=Safari
+Testing: csp_id=12, page_id=1900, browser=Safari
+Testing: csp_id=12, page_id=2000, browser=Safari
+Testing: csp_id=12, page_id=2100, browser=Safari
+Testing: csp_id=12, page_id=2200, browser=Safari
+Testing: csp_id=12, page_id=2300, browser=Safari
+Testing: csp_id=12, page_id=2400, browser=Safari
+Testing: csp_id=12, page_id=2500, browser=Safari
+Testing: csp_id=12, page_id=2600, browser=Safari
+Testing: csp_id=12, page_id=2700, browser=Safari
+Testing: csp_id=12, page_id=2800, browser=Safari
+Testing: csp_id=12, page_id=2900, browser=Safari
+Testing: csp_id=12, page_id=3000, browser=Safari
+Testing: csp_id=12, page_id=3100, browser=Safari
+Testing: csp_id=12, page_id=3200, browser=Safari
+Testing: csp_id=12, page_id=3300, browser=Safari
+Testing: csp_id=12, page_id=3400, browser=Safari
+Testing: csp_id=12, page_id=3500, browser=Safari
+Testing: csp_id=12, page_id=3600, browser=Safari
+Testing: csp_id=12, page_id=3700, browser=Safari
+Testing: csp_id=12, page_id=3800, browser=Safari
+Testing: csp_id=12, page_id=3900, browser=Safari
+Testing: csp_id=12, page_id=4000, browser=Safari
+Testing: csp_id=12, page_id=4100, browser=Safari
+Testing: csp_id=12, page_id=4200, browser=Safari
+Testing: csp_id=12, page_id=4300, browser=Safari
+Testing: csp_id=12, page_id=4400, browser=Safari
+Testing: csp_id=12, page_id=4500, browser=Safari
+Testing: csp_id=12, page_id=4600, browser=Safari
+Testing: csp_id=12, page_id=4700, browser=Safari
+Testing: csp_id=12, page_id=4800, browser=Safari
+Testing: csp_id=12, page_id=4900, browser=Safari
+Testing: csp_id=12, page_id=5000, browser=Safari
+Testing: csp_id=12, page_id=5100, browser=Safari
+Testing: csp_id=12, page_id=5200, browser=Safari
+Testing: csp_id=12, page_id=5300, browser=Safari
+Testing: csp_id=12, page_id=5400, browser=Safari
+Testing: csp_id=12, page_id=5500, browser=Safari
+Testing: csp_id=12, page_id=5600, browser=Safari
+Testing: csp_id=12, page_id=5700, browser=Safari
+Testing: csp_id=12, page_id=5800, browser=Safari
+Testing: csp_id=12, page_id=5900, browser=Safari
+Testing: csp_id=12, page_id=6000, browser=Safari
+Testing: csp_id=12, page_id=6100, browser=Safari
+Testing: csp_id=12, page_id=6200, browser=Safari
+Testing: csp_id=12, page_id=6300, browser=Safari
+Testing: csp_id=12, page_id=6400, browser=Safari
+Testing: csp_id=12, page_id=6500, browser=Safari
+Testing: csp_id=12, page_id=6600, browser=Safari
+Testing: csp_id=12, page_id=6700, browser=Safari
+Testing: csp_id=12, page_id=6800, browser=Safari
+Testing: csp_id=12, page_id=6900, browser=Safari
+Testing: csp_id=12, page_id=7000, browser=Safari
+Testing: csp_id=12, page_id=7100, browser=Safari
+Testing: csp_id=12, page_id=7200, browser=Safari
+Testing: csp_id=12, page_id=7300, browser=Safari
+Testing: csp_id=12, page_id=7400, browser=Safari
+Testing: csp_id=12, page_id=7500, browser=Safari
+Testing: csp_id=12, page_id=7600, browser=Safari
+Testing: csp_id=12, page_id=7700, browser=Safari
+Testing: csp_id=12, page_id=7800, browser=Safari
+Testing: csp_id=12, page_id=7900, browser=Safari
+Testing: csp_id=12, page_id=8000, browser=Safari
+Testing: csp_id=12, page_id=8100, browser=Safari
+Testing: csp_id=12, page_id=8200, browser=Safari
+Testing: csp_id=12, page_id=8300, browser=Safari
+Testing: csp_id=12, page_id=8400, browser=Safari
+Testing: csp_id=12, page_id=8500, browser=Safari
+Testing: csp_id=12, page_id=8600, browser=Safari
+Testing: csp_id=12, page_id=8700, browser=Safari
+Testing: csp_id=12, page_id=8800, browser=Safari
+Testing: csp_id=12, page_id=8900, browser=Safari
+Testing: csp_id=12, page_id=9000, browser=Safari
+Testing: csp_id=12, page_id=9100, browser=Safari
+Testing: csp_id=12, page_id=9200, browser=Safari
+Testing: csp_id=12, page_id=9300, browser=Safari
+Testing: csp_id=12, page_id=9400, browser=Safari
+Testing: csp_id=12, page_id=9500, browser=Safari
+Testing: csp_id=12, page_id=9600, browser=Safari
+Testing: csp_id=12, page_id=9700, browser=Safari
+Testing: csp_id=12, page_id=9800, browser=Safari
+Testing: csp_id=12, page_id=9900, browser=Safari
+Testing: csp_id=12, page_id=10000, browser=Safari
+Testing: csp_id=12, page_id=10100, browser=Safari
+Testing: csp_id=12, page_id=10200, browser=Safari
+Testing: csp_id=12, page_id=10300, browser=Safari
+Testing: csp_id=12, page_id=10400, browser=Safari
+Testing: csp_id=12, page_id=10500, browser=Safari
+Testing: csp_id=12, page_id=10600, browser=Safari
+Testing: csp_id=12, page_id=10700, browser=Safari
+Testing: csp_id=12, page_id=10800, browser=Safari
+Testing: csp_id=12, page_id=10900, browser=Safari
+Testing: csp_id=12, page_id=11000, browser=Safari
+Testing: csp_id=12, page_id=11100, browser=Safari
+Testing: csp_id=12, page_id=11200, browser=Safari
+Testing: csp_id=12, page_id=11300, browser=Safari
+Testing: csp_id=12, page_id=11400, browser=Safari
+Testing: csp_id=12, page_id=11500, browser=Safari
+Testing: csp_id=12, page_id=11600, browser=Safari
+Testing: csp_id=12, page_id=11700, browser=Safari
+Testing: csp_id=12, page_id=11800, browser=Safari
+Testing: csp_id=12, page_id=11900, browser=Safari
+Testing: csp_id=12, page_id=12000, browser=Safari
+Testing: csp_id=12, page_id=12100, browser=Safari
+Testing: csp_id=12, page_id=12200, browser=Safari
+Testing: csp_id=12, page_id=12300, browser=Safari
+Testing: csp_id=12, page_id=12400, browser=Safari
+Testing: csp_id=12, page_id=12500, browser=Safari
+Testing: csp_id=12, page_id=12600, browser=Safari
+Testing: csp_id=12, page_id=12700, browser=Safari
+Testing: csp_id=12, page_id=12800, browser=Safari
+Testing: csp_id=12, page_id=12900, browser=Safari
+Testing: csp_id=12, page_id=13000, browser=Safari
+Testing: csp_id=12, page_id=13100, browser=Safari
+Testing: csp_id=12, page_id=13200, browser=Safari
+Testing: csp_id=12, page_id=13300, browser=Safari
+Testing: csp_id=12, page_id=13400, browser=Safari
+Testing: csp_id=12, page_id=13500, browser=Safari
+Testing: csp_id=12, page_id=13600, browser=Safari
+Testing: csp_id=12, page_id=13700, browser=Safari
+Testing: csp_id=12, page_id=13800, browser=Safari
+Testing: csp_id=12, page_id=13900, browser=Safari
+Testing: csp_id=12, page_id=14000, browser=Safari
+Testing: csp_id=12, page_id=14100, browser=Safari
+Testing: csp_id=12, page_id=14200, browser=Safari
+Testing: csp_id=12, page_id=14300, browser=Safari
+Testing: csp_id=12, page_id=14400, browser=Safari
+Testing: csp_id=12, page_id=14500, browser=Safari
+Testing: csp_id=12, page_id=14600, browser=Safari
+Testing: csp_id=12, page_id=14700, browser=Safari
+Testing: csp_id=12, page_id=14800, browser=Safari
+Testing: csp_id=12, page_id=14900, browser=Safari
+Testing: csp_id=12, page_id=15000, browser=Safari
+Testing: csp_id=12, page_id=15100, browser=Safari
+Testing: csp_id=12, page_id=15200, browser=Safari
+Testing: csp_id=12, page_id=15300, browser=Safari
+Testing: csp_id=12, page_id=15400, browser=Safari
+Testing: csp_id=12, page_id=15500, browser=Safari
+Testing: csp_id=12, page_id=15600, browser=Safari
+Testing: csp_id=12, page_id=15700, browser=Safari
+Testing: csp_id=12, page_id=15800, browser=Safari
+Testing: csp_id=12, page_id=15900, browser=Safari
+Testing: csp_id=12, page_id=16000, browser=Safari
+Testing: csp_id=12, page_id=16100, browser=Safari
+Testing: csp_id=12, page_id=16200, browser=Safari
+Testing: csp_id=12, page_id=16300, browser=Safari
+Testing: csp_id=12, page_id=16400, browser=Safari
+Testing: csp_id=12, page_id=16500, browser=Safari
+Testing: csp_id=12, page_id=16600, browser=Safari
+Testing: csp_id=12, page_id=16700, browser=Safari
+Testing: csp_id=12, page_id=16800, browser=Safari
+Testing: csp_id=12, page_id=16900, browser=Safari
+Testing: csp_id=12, page_id=17000, browser=Safari
+Testing: csp_id=12, page_id=17100, browser=Safari
+Testing: csp_id=12, page_id=17200, browser=Safari
+Testing: csp_id=12, page_id=17300, browser=Safari
+Testing: csp_id=12, page_id=17400, browser=Safari
+Testing: csp_id=12, page_id=17500, browser=Safari
+Testing: csp_id=12, page_id=17600, browser=Safari
+Testing: csp_id=12, page_id=17700, browser=Safari
+Testing: csp_id=12, page_id=17800, browser=Safari
+Testing: csp_id=12, page_id=17900, browser=Safari
+Testing: csp_id=12, page_id=18000, browser=Safari
+Testing: csp_id=12, page_id=18100, browser=Safari
+Testing: csp_id=12, page_id=18200, browser=Safari
+Testing: csp_id=12, page_id=18300, browser=Safari
+Testing: csp_id=12, page_id=18400, browser=Safari
+Testing: csp_id=12, page_id=18500, browser=Safari
+Testing: csp_id=12, page_id=18600, browser=Safari
+Testing: csp_id=12, page_id=18700, browser=Safari
+Testing: csp_id=12, page_id=18800, browser=Safari
+Testing: csp_id=12, page_id=18900, browser=Safari
+Testing: csp_id=12, page_id=19000, browser=Safari
+Testing: csp_id=12, page_id=19100, browser=Safari
+Testing: csp_id=12, page_id=19200, browser=Safari
+Testing: csp_id=12, page_id=19300, browser=Safari
+Testing: csp_id=12, page_id=19400, browser=Safari
+Testing: csp_id=12, page_id=19500, browser=Safari
+Testing: csp_id=12, page_id=19600, browser=Safari
+Testing: csp_id=12, page_id=19700, browser=Safari
+Testing: csp_id=12, page_id=19800, browser=Safari
+Testing: csp_id=12, page_id=19900, browser=Safari
+Testing: csp_id=12, page_id=20000, browser=Safari
+Testing: csp_id=12, page_id=20100, browser=Safari
+Testing: csp_id=12, page_id=20200, browser=Safari
+Testing: csp_id=12, page_id=20300, browser=Safari
+Testing: csp_id=12, page_id=20400, browser=Safari
+Testing: csp_id=12, page_id=20500, browser=Safari
+Testing: csp_id=12, page_id=20600, browser=Safari
+Testing: csp_id=12, page_id=20700, browser=Safari
+Testing: csp_id=12, page_id=20800, browser=Safari
+Testing: csp_id=12, page_id=20900, browser=Safari
+Testing: csp_id=12, page_id=21000, browser=Safari
+Testing: csp_id=12, page_id=21100, browser=Safari
+Testing: csp_id=12, page_id=21200, browser=Safari
+Testing: csp_id=12, page_id=21300, browser=Safari
+Testing: csp_id=12, page_id=21400, browser=Safari
+Testing: csp_id=12, page_id=21500, browser=Safari
+Testing: csp_id=12, page_id=21600, browser=Safari
+Testing: csp_id=12, page_id=21700, browser=Safari
+Testing: csp_id=12, page_id=21800, browser=Safari
+Testing: csp_id=12, page_id=21900, browser=Safari
+Testing: csp_id=12, page_id=22000, browser=Safari
+Testing: csp_id=12, page_id=22100, browser=Safari
+Testing: csp_id=12, page_id=22200, browser=Safari
+Testing: csp_id=12, page_id=22300, browser=Safari
+Testing: csp_id=12, page_id=22400, browser=Safari
+Testing: csp_id=12, page_id=22500, browser=Safari
+Testing: csp_id=12, page_id=22600, browser=Safari
+Testing: csp_id=12, page_id=22700, browser=Safari
+Testing: csp_id=12, page_id=22800, browser=Safari
+Testing: csp_id=12, page_id=22900, browser=Safari
+Testing: csp_id=12, page_id=23000, browser=Safari
+Testing: csp_id=12, page_id=23100, browser=Safari
+Testing: csp_id=12, page_id=23200, browser=Safari
+Testing: csp_id=12, page_id=23300, browser=Safari
+Testing: csp_id=12, page_id=23400, browser=Safari
+Testing: csp_id=12, page_id=23500, browser=Safari
+Testing: csp_id=12, page_id=23600, browser=Safari
+Testing: csp_id=12, page_id=23700, browser=Safari
+Testing: csp_id=12, page_id=23800, browser=Safari
+Testing: csp_id=12, page_id=23900, browser=Safari
+Testing: csp_id=12, page_id=24000, browser=Safari
+Testing: csp_id=12, page_id=24100, browser=Safari
+Testing: csp_id=12, page_id=24200, browser=Safari
+Testing: csp_id=12, page_id=24300, browser=Safari
+Testing: csp_id=12, page_id=24400, browser=Safari
+Testing: csp_id=12, page_id=24500, browser=Safari
+Testing: csp_id=12, page_id=24600, browser=Safari
+Testing: csp_id=12, page_id=24700, browser=Safari
+Testing: csp_id=12, page_id=24800, browser=Safari
+Testing: csp_id=12, page_id=24900, browser=Safari
+Testing: csp_id=12, page_id=25000, browser=Safari
+Testing: csp_id=12, page_id=25100, browser=Safari
+Testing: csp_id=12, page_id=25200, browser=Safari
+Testing: csp_id=12, page_id=25300, browser=Safari
+Testing: csp_id=12, page_id=25400, browser=Safari
+Testing: csp_id=12, page_id=25500, browser=Safari
+Testing: csp_id=12, page_id=25600, browser=Safari
+Testing: csp_id=12, page_id=25700, browser=Safari
+Testing: csp_id=12, page_id=25800, browser=Safari
+Testing: csp_id=12, page_id=25900, browser=Safari
+Testing: csp_id=12, page_id=26000, browser=Safari
+Testing: csp_id=12, page_id=26100, browser=Safari
+Testing: csp_id=12, page_id=26200, browser=Safari
+Testing: csp_id=12, page_id=26300, browser=Safari
+Testing: csp_id=12, page_id=26400, browser=Safari
+Testing: csp_id=12, page_id=26500, browser=Safari
+Testing: csp_id=12, page_id=26600, browser=Safari
+Testing: csp_id=12, page_id=26700, browser=Safari
+Testing: csp_id=12, page_id=26800, browser=Safari
+Testing: csp_id=12, page_id=26900, browser=Safari
+Testing: csp_id=12, page_id=27000, browser=Safari
+Testing: csp_id=12, page_id=27100, browser=Safari
+Testing: csp_id=12, page_id=27200, browser=Safari
+Testing: csp_id=12, page_id=27300, browser=Safari
+Testing: csp_id=12, page_id=27400, browser=Safari
+Testing: csp_id=12, page_id=27500, browser=Safari
+Testing: csp_id=12, page_id=27600, browser=Safari
+Testing: csp_id=12, page_id=27700, browser=Safari
+Testing: csp_id=12, page_id=27800, browser=Safari
+Testing: csp_id=12, page_id=27900, browser=Safari
+Testing: csp_id=12, page_id=28000, browser=Safari
+Testing: csp_id=12, page_id=28100, browser=Safari
+Testing: csp_id=12, page_id=28200, browser=Safari
+Testing: csp_id=12, page_id=28300, browser=Safari
+Testing: csp_id=12, page_id=28400, browser=Safari
+Testing: csp_id=12, page_id=28500, browser=Safari
+Testing: csp_id=12, page_id=28600, browser=Safari
+Testing: csp_id=12, page_id=28700, browser=Safari
+Testing: csp_id=12, page_id=28800, browser=Safari
+Testing: csp_id=12, page_id=28900, browser=Safari
+Testing: csp_id=12, page_id=29000, browser=Safari
+Testing: csp_id=12, page_id=29100, browser=Safari
+Testing: csp_id=12, page_id=29200, browser=Safari
+Testing: csp_id=12, page_id=29300, browser=Safari
+Testing: csp_id=12, page_id=29400, browser=Safari
+Testing: csp_id=12, page_id=29500, browser=Safari
+Testing: csp_id=12, page_id=29600, browser=Safari
+Testing: csp_id=12, page_id=29700, browser=Safari
+Testing: csp_id=12, page_id=29800, browser=Safari
+🏊 create_context_pools[first] (5x16): 1.117s
+Testing: csp_id=24, page_id=0, browser=Safari
+Testing: csp_id=24, page_id=100, browser=Safari
+Testing: csp_id=24, page_id=200, browser=Safari
+Testing: csp_id=24, page_id=300, browser=Safari
+Testing: csp_id=24, page_id=400, browser=Safari
+Testing: csp_id=24, page_id=500, browser=Safari
+Testing: csp_id=24, page_id=600, browser=Safari
+Testing: csp_id=24, page_id=700, browser=Safari
+Testing: csp_id=24, page_id=800, browser=Safari
+Testing: csp_id=24, page_id=900, browser=Safari
+Testing: csp_id=24, page_id=1000, browser=Safari
+Testing: csp_id=24, page_id=1100, browser=Safari
+Testing: csp_id=24, page_id=1200, browser=Safari
+Testing: csp_id=24, page_id=1300, browser=Safari
+Testing: csp_id=24, page_id=1400, browser=Safari
+Testing: csp_id=24, page_id=1500, browser=Safari
+Testing: csp_id=24, page_id=1600, browser=Safari
+Testing: csp_id=24, page_id=1700, browser=Safari
+Testing: csp_id=24, page_id=1800, browser=Safari
+Testing: csp_id=24, page_id=1900, browser=Safari
+Testing: csp_id=24, page_id=2000, browser=Safari
+Testing: csp_id=24, page_id=2100, browser=Safari
+Testing: csp_id=24, page_id=2200, browser=Safari
+Testing: csp_id=24, page_id=2300, browser=Safari
+Testing: csp_id=24, page_id=2400, browser=Safari
+Testing: csp_id=24, page_id=2500, browser=Safari
+Testing: csp_id=24, page_id=2600, browser=Safari
+Testing: csp_id=24, page_id=2700, browser=Safari
+Testing: csp_id=24, page_id=2800, browser=Safari
+Testing: csp_id=24, page_id=2900, browser=Safari
+Testing: csp_id=24, page_id=3000, browser=Safari
+Testing: csp_id=24, page_id=3100, browser=Safari
+Testing: csp_id=24, page_id=3200, browser=Safari
+Testing: csp_id=24, page_id=3300, browser=Safari
+Testing: csp_id=24, page_id=3400, browser=Safari
+Testing: csp_id=24, page_id=3500, browser=Safari
+Testing: csp_id=24, page_id=3600, browser=Safari
+Testing: csp_id=24, page_id=3700, browser=Safari
+Testing: csp_id=24, page_id=3800, browser=Safari
+Testing: csp_id=24, page_id=3900, browser=Safari
+Testing: csp_id=24, page_id=4000, browser=Safari
+Testing: csp_id=24, page_id=4100, browser=Safari
+Testing: csp_id=24, page_id=4200, browser=Safari
+Testing: csp_id=24, page_id=4300, browser=Safari
+Testing: csp_id=24, page_id=4400, browser=Safari
+Testing: csp_id=24, page_id=4500, browser=Safari
+Testing: csp_id=24, page_id=4600, browser=Safari
+Testing: csp_id=24, page_id=4700, browser=Safari
+Testing: csp_id=24, page_id=4800, browser=Safari
+Testing: csp_id=24, page_id=4900, browser=Safari
+Testing: csp_id=24, page_id=5000, browser=Safari
+Testing: csp_id=24, page_id=5100, browser=Safari
+Testing: csp_id=24, page_id=5200, browser=Safari
+Testing: csp_id=24, page_id=5300, browser=Safari
+Testing: csp_id=24, page_id=5400, browser=Safari
+Testing: csp_id=24, page_id=5500, browser=Safari
+Testing: csp_id=24, page_id=5600, browser=Safari
+Testing: csp_id=24, page_id=5700, browser=Safari
+Testing: csp_id=24, page_id=5800, browser=Safari
+Testing: csp_id=24, page_id=5900, browser=Safari
+Testing: csp_id=24, page_id=6000, browser=Safari
+Testing: csp_id=24, page_id=6100, browser=Safari
+Testing: csp_id=24, page_id=6200, browser=Safari
+Testing: csp_id=24, page_id=6300, browser=Safari
+Testing: csp_id=24, page_id=6400, browser=Safari
+Testing: csp_id=24, page_id=6500, browser=Safari
+Testing: csp_id=24, page_id=6600, browser=Safari
+Testing: csp_id=24, page_id=6700, browser=Safari
+Testing: csp_id=24, page_id=6800, browser=Safari
+Testing: csp_id=24, page_id=6900, browser=Safari
+Testing: csp_id=24, page_id=7000, browser=Safari
+Testing: csp_id=24, page_id=7100, browser=Safari
+Testing: csp_id=24, page_id=7200, browser=Safari
+Testing: csp_id=24, page_id=7300, browser=Safari
+Testing: csp_id=24, page_id=7400, browser=Safari
+Testing: csp_id=24, page_id=7500, browser=Safari
+Testing: csp_id=24, page_id=7600, browser=Safari
+Testing: csp_id=24, page_id=7700, browser=Safari
+Testing: csp_id=24, page_id=7800, browser=Safari
+Testing: csp_id=24, page_id=7900, browser=Safari
+Testing: csp_id=24, page_id=8000, browser=Safari
+Testing: csp_id=24, page_id=8100, browser=Safari
+Testing: csp_id=24, page_id=8200, browser=Safari
+Testing: csp_id=24, page_id=8300, browser=Safari
+Testing: csp_id=24, page_id=8400, browser=Safari
+Testing: csp_id=24, page_id=8500, browser=Safari
+Testing: csp_id=24, page_id=8600, browser=Safari
+Testing: csp_id=24, page_id=8700, browser=Safari
+Testing: csp_id=24, page_id=8800, browser=Safari
+Testing: csp_id=24, page_id=8900, browser=Safari
+Testing: csp_id=24, page_id=9000, browser=Safari
+Testing: csp_id=24, page_id=9100, browser=Safari
+Testing: csp_id=24, page_id=9200, browser=Safari
+Testing: csp_id=24, page_id=9300, browser=Safari
+Testing: csp_id=24, page_id=9400, browser=Safari
+Testing: csp_id=24, page_id=9500, browser=Safari
+Testing: csp_id=24, page_id=9600, browser=Safari
+Testing: csp_id=24, page_id=9700, browser=Safari
+Testing: csp_id=24, page_id=9800, browser=Safari
+Testing: csp_id=24, page_id=9900, browser=Safari
+Testing: csp_id=24, page_id=10000, browser=Safari
+Testing: csp_id=24, page_id=10100, browser=Safari
+Testing: csp_id=24, page_id=10200, browser=Safari
+Testing: csp_id=24, page_id=10300, browser=Safari
+Testing: csp_id=24, page_id=10400, browser=Safari
+Testing: csp_id=24, page_id=10500, browser=Safari
+Testing: csp_id=24, page_id=10600, browser=Safari
+Testing: csp_id=24, page_id=10700, browser=Safari
+Testing: csp_id=24, page_id=10800, browser=Safari
+Testing: csp_id=24, page_id=10900, browser=Safari
+Testing: csp_id=24, page_id=11000, browser=Safari
+Testing: csp_id=24, page_id=11100, browser=Safari
+Testing: csp_id=24, page_id=11200, browser=Safari
+Testing: csp_id=24, page_id=11300, browser=Safari
+Testing: csp_id=24, page_id=11400, browser=Safari
+Testing: csp_id=24, page_id=11500, browser=Safari
+Testing: csp_id=24, page_id=11600, browser=Safari
+Testing: csp_id=24, page_id=11700, browser=Safari
+Testing: csp_id=24, page_id=11800, browser=Safari
+Testing: csp_id=24, page_id=11900, browser=Safari
+Testing: csp_id=24, page_id=12000, browser=Safari
+Testing: csp_id=24, page_id=12100, browser=Safari
+Testing: csp_id=24, page_id=12200, browser=Safari
+Testing: csp_id=24, page_id=12300, browser=Safari
+Testing: csp_id=24, page_id=12400, browser=Safari
+Testing: csp_id=24, page_id=12500, browser=Safari
+Testing: csp_id=24, page_id=12600, browser=Safari
+Testing: csp_id=24, page_id=12700, browser=Safari
+Testing: csp_id=24, page_id=12800, browser=Safari
+Testing: csp_id=24, page_id=12900, browser=Safari
+Testing: csp_id=24, page_id=13000, browser=Safari
+Testing: csp_id=24, page_id=13100, browser=Safari
+Testing: csp_id=24, page_id=13200, browser=Safari
+Testing: csp_id=24, page_id=13300, browser=Safari
+Testing: csp_id=24, page_id=13400, browser=Safari
+Testing: csp_id=24, page_id=13500, browser=Safari
+Testing: csp_id=24, page_id=13600, browser=Safari
+Testing: csp_id=24, page_id=13700, browser=Safari
+Testing: csp_id=24, page_id=13800, browser=Safari
+Testing: csp_id=24, page_id=13900, browser=Safari
+Testing: csp_id=24, page_id=14000, browser=Safari
+Testing: csp_id=24, page_id=14100, browser=Safari
+Testing: csp_id=24, page_id=14200, browser=Safari
+Testing: csp_id=24, page_id=14300, browser=Safari
+Testing: csp_id=24, page_id=14400, browser=Safari
+Testing: csp_id=24, page_id=14500, browser=Safari
+Testing: csp_id=24, page_id=14600, browser=Safari
+Testing: csp_id=24, page_id=14700, browser=Safari
+Testing: csp_id=24, page_id=14800, browser=Safari
+Testing: csp_id=24, page_id=14900, browser=Safari
+Testing: csp_id=24, page_id=15000, browser=Safari
+Testing: csp_id=24, page_id=15100, browser=Safari
+Testing: csp_id=24, page_id=15200, browser=Safari
+Testing: csp_id=24, page_id=15300, browser=Safari
+Testing: csp_id=24, page_id=15400, browser=Safari
+Testing: csp_id=24, page_id=15500, browser=Safari
+Testing: csp_id=24, page_id=15600, browser=Safari
+Testing: csp_id=24, page_id=15700, browser=Safari
+Testing: csp_id=24, page_id=15800, browser=Safari
+Testing: csp_id=24, page_id=15900, browser=Safari
+Testing: csp_id=24, page_id=16000, browser=Safari
+Testing: csp_id=24, page_id=16100, browser=Safari
+Testing: csp_id=24, page_id=16200, browser=Safari
+Testing: csp_id=24, page_id=16300, browser=Safari
+Testing: csp_id=24, page_id=16400, browser=Safari
+Testing: csp_id=24, page_id=16500, browser=Safari
+Testing: csp_id=24, page_id=16600, browser=Safari
+Testing: csp_id=24, page_id=16700, browser=Safari
+Testing: csp_id=24, page_id=16800, browser=Safari
+Testing: csp_id=24, page_id=16900, browser=Safari
+Testing: csp_id=24, page_id=17000, browser=Safari
+Testing: csp_id=24, page_id=17100, browser=Safari
+Testing: csp_id=24, page_id=17200, browser=Safari
+Testing: csp_id=24, page_id=17300, browser=Safari
+Testing: csp_id=24, page_id=17400, browser=Safari
+Testing: csp_id=24, page_id=17500, browser=Safari
+Testing: csp_id=24, page_id=17600, browser=Safari
+Testing: csp_id=24, page_id=17700, browser=Safari
+Testing: csp_id=24, page_id=17800, browser=Safari
+Testing: csp_id=24, page_id=17900, browser=Safari
+Testing: csp_id=24, page_id=18000, browser=Safari
+Testing: csp_id=24, page_id=18100, browser=Safari
+Testing: csp_id=24, page_id=18200, browser=Safari
+Testing: csp_id=24, page_id=18300, browser=Safari
+Testing: csp_id=24, page_id=18400, browser=Safari
+Testing: csp_id=24, page_id=18500, browser=Safari
+Testing: csp_id=24, page_id=18600, browser=Safari
+Testing: csp_id=24, page_id=18700, browser=Safari
+Testing: csp_id=24, page_id=18800, browser=Safari
+Testing: csp_id=24, page_id=18900, browser=Safari
+Testing: csp_id=24, page_id=19000, browser=Safari
+Testing: csp_id=24, page_id=19100, browser=Safari
+Testing: csp_id=24, page_id=19200, browser=Safari
+Testing: csp_id=24, page_id=19300, browser=Safari
+Testing: csp_id=24, page_id=19400, browser=Safari
+Testing: csp_id=24, page_id=19500, browser=Safari
+Testing: csp_id=24, page_id=19600, browser=Safari
+Testing: csp_id=24, page_id=19700, browser=Safari
+Testing: csp_id=24, page_id=19800, browser=Safari
+Testing: csp_id=24, page_id=19900, browser=Safari
+Testing: csp_id=24, page_id=20000, browser=Safari
+Testing: csp_id=24, page_id=20100, browser=Safari
+Testing: csp_id=24, page_id=20200, browser=Safari
+Testing: csp_id=24, page_id=20300, browser=Safari
+Testing: csp_id=24, page_id=20400, browser=Safari
+Testing: csp_id=24, page_id=20500, browser=Safari
+Testing: csp_id=24, page_id=20600, browser=Safari
+Testing: csp_id=24, page_id=20700, browser=Safari
+Testing: csp_id=24, page_id=20800, browser=Safari
+Testing: csp_id=24, page_id=20900, browser=Safari
+Testing: csp_id=24, page_id=21000, browser=Safari
+Testing: csp_id=24, page_id=21100, browser=Safari
+Testing: csp_id=24, page_id=21200, browser=Safari
+Testing: csp_id=24, page_id=21300, browser=Safari
+Testing: csp_id=24, page_id=21400, browser=Safari
+Testing: csp_id=24, page_id=21500, browser=Safari
+Testing: csp_id=24, page_id=21600, browser=Safari
+Testing: csp_id=24, page_id=21700, browser=Safari
+Testing: csp_id=24, page_id=21800, browser=Safari
+Testing: csp_id=24, page_id=21900, browser=Safari
+Testing: csp_id=24, page_id=22000, browser=Safari
+Testing: csp_id=24, page_id=22100, browser=Safari
+Testing: csp_id=24, page_id=22200, browser=Safari
+Testing: csp_id=24, page_id=22300, browser=Safari
+Testing: csp_id=24, page_id=22400, browser=Safari
+Testing: csp_id=24, page_id=22500, browser=Safari
+Testing: csp_id=24, page_id=22600, browser=Safari
+Testing: csp_id=24, page_id=22700, browser=Safari
+Testing: csp_id=24, page_id=22800, browser=Safari
+Testing: csp_id=24, page_id=22900, browser=Safari
+Testing: csp_id=24, page_id=23000, browser=Safari
+Testing: csp_id=24, page_id=23100, browser=Safari
+Testing: csp_id=24, page_id=23200, browser=Safari
+Testing: csp_id=24, page_id=23300, browser=Safari
+Testing: csp_id=24, page_id=23400, browser=Safari
+Testing: csp_id=24, page_id=23500, browser=Safari
+Testing: csp_id=24, page_id=23600, browser=Safari
+Testing: csp_id=24, page_id=23700, browser=Safari
+Testing: csp_id=24, page_id=23800, browser=Safari
+Testing: csp_id=24, page_id=23900, browser=Safari
+Testing: csp_id=24, page_id=24000, browser=Safari
+Testing: csp_id=24, page_id=24100, browser=Safari
+Testing: csp_id=24, page_id=24200, browser=Safari
+Testing: csp_id=24, page_id=24300, browser=Safari
+Testing: csp_id=24, page_id=24400, browser=Safari
+Testing: csp_id=24, page_id=24500, browser=Safari
+Testing: csp_id=24, page_id=24600, browser=Safari
+Testing: csp_id=24, page_id=24700, browser=Safari
+Testing: csp_id=24, page_id=24800, browser=Safari
+Testing: csp_id=24, page_id=24900, browser=Safari
+Testing: csp_id=24, page_id=25000, browser=Safari
+Testing: csp_id=24, page_id=25100, browser=Safari
+Testing: csp_id=24, page_id=25200, browser=Safari
+Testing: csp_id=24, page_id=25300, browser=Safari
+Testing: csp_id=24, page_id=25400, browser=Safari
+Testing: csp_id=24, page_id=25500, browser=Safari
+Testing: csp_id=24, page_id=25600, browser=Safari
+Testing: csp_id=24, page_id=25700, browser=Safari
+Testing: csp_id=24, page_id=25800, browser=Safari
+Testing: csp_id=24, page_id=25900, browser=Safari
+Testing: csp_id=24, page_id=26000, browser=Safari
+Testing: csp_id=24, page_id=26100, browser=Safari
+Testing: csp_id=24, page_id=26200, browser=Safari
+Testing: csp_id=24, page_id=26300, browser=Safari
+Testing: csp_id=24, page_id=26400, browser=Safari
+Testing: csp_id=24, page_id=26500, browser=Safari
+Testing: csp_id=24, page_id=26600, browser=Safari
+Testing: csp_id=24, page_id=26700, browser=Safari
+Testing: csp_id=24, page_id=26800, browser=Safari
+Testing: csp_id=24, page_id=26900, browser=Safari
+Testing: csp_id=24, page_id=27000, browser=Safari
+Testing: csp_id=24, page_id=27100, browser=Safari
+Testing: csp_id=24, page_id=27200, browser=Safari
+Testing: csp_id=24, page_id=27300, browser=Safari
+Testing: csp_id=24, page_id=27400, browser=Safari
+Testing: csp_id=24, page_id=27500, browser=Safari
+Testing: csp_id=24, page_id=27600, browser=Safari
+Testing: csp_id=24, page_id=27700, browser=Safari
+Testing: csp_id=24, page_id=27800, browser=Safari
+Testing: csp_id=24, page_id=27900, browser=Safari
+Testing: csp_id=24, page_id=28000, browser=Safari
+Testing: csp_id=24, page_id=28100, browser=Safari
+Testing: csp_id=24, page_id=28200, browser=Safari
+Testing: csp_id=24, page_id=28300, browser=Safari
+Testing: csp_id=24, page_id=28400, browser=Safari
+Testing: csp_id=24, page_id=28500, browser=Safari
+Testing: csp_id=24, page_id=28600, browser=Safari
+Testing: csp_id=24, page_id=28700, browser=Safari
+Testing: csp_id=24, page_id=28800, browser=Safari
+Testing: csp_id=24, page_id=28900, browser=Safari
+Testing: csp_id=24, page_id=29000, browser=Safari
+Testing: csp_id=24, page_id=29100, browser=Safari
+Testing: csp_id=24, page_id=29200, browser=Safari
+Testing: csp_id=24, page_id=29300, browser=Safari
+Testing: csp_id=24, page_id=29400, browser=Safari
+Testing: csp_id=24, page_id=29500, browser=Safari
+Testing: csp_id=24, page_id=29600, browser=Safari
+Testing: csp_id=24, page_id=29700, browser=Safari
+Testing: csp_id=24, page_id=29800, browser=Safari
+🏊 create_context_pools[first] (5x16): 1.144s
+Testing: csp_id=36, page_id=0, browser=Safari
+Testing: csp_id=36, page_id=100, browser=Safari
+Testing: csp_id=36, page_id=200, browser=Safari
+Testing: csp_id=36, page_id=300, browser=Safari
+Testing: csp_id=36, page_id=400, browser=Safari
+Testing: csp_id=36, page_id=500, browser=Safari
+Testing: csp_id=36, page_id=600, browser=Safari
+Testing: csp_id=36, page_id=700, browser=Safari
+Testing: csp_id=36, page_id=800, browser=Safari
+Testing: csp_id=36, page_id=900, browser=Safari
+Testing: csp_id=36, page_id=1000, browser=Safari
+Testing: csp_id=36, page_id=1100, browser=Safari
+Testing: csp_id=36, page_id=1200, browser=Safari
+Testing: csp_id=36, page_id=1300, browser=Safari
+Testing: csp_id=36, page_id=1400, browser=Safari
+Testing: csp_id=36, page_id=1500, browser=Safari
+Testing: csp_id=36, page_id=1600, browser=Safari
+Testing: csp_id=36, page_id=1700, browser=Safari
+Testing: csp_id=36, page_id=1800, browser=Safari
+Testing: csp_id=36, page_id=1900, browser=Safari
+Testing: csp_id=36, page_id=2000, browser=Safari
+Testing: csp_id=36, page_id=2100, browser=Safari
+Testing: csp_id=36, page_id=2200, browser=Safari
+Testing: csp_id=36, page_id=2300, browser=Safari
+Testing: csp_id=36, page_id=2400, browser=Safari
+Testing: csp_id=36, page_id=2500, browser=Safari
+Testing: csp_id=36, page_id=2600, browser=Safari
+Testing: csp_id=36, page_id=2700, browser=Safari
+Testing: csp_id=36, page_id=2800, browser=Safari
+Testing: csp_id=36, page_id=2900, browser=Safari
+Testing: csp_id=36, page_id=3000, browser=Safari
+Testing: csp_id=36, page_id=3100, browser=Safari
+Testing: csp_id=36, page_id=3200, browser=Safari
+Testing: csp_id=36, page_id=3300, browser=Safari
+Testing: csp_id=36, page_id=3400, browser=Safari
+Testing: csp_id=36, page_id=3500, browser=Safari
+Testing: csp_id=36, page_id=3600, browser=Safari
+Testing: csp_id=36, page_id=3700, browser=Safari
+Testing: csp_id=36, page_id=3800, browser=Safari
+Testing: csp_id=36, page_id=3900, browser=Safari
+Testing: csp_id=36, page_id=4000, browser=Safari
+Testing: csp_id=36, page_id=4100, browser=Safari
+Testing: csp_id=36, page_id=4200, browser=Safari
+Testing: csp_id=36, page_id=4300, browser=Safari
+Testing: csp_id=36, page_id=4400, browser=Safari
+Testing: csp_id=36, page_id=4500, browser=Safari
+Testing: csp_id=36, page_id=4600, browser=Safari
+Testing: csp_id=36, page_id=4700, browser=Safari
+Testing: csp_id=36, page_id=4800, browser=Safari
+Testing: csp_id=36, page_id=4900, browser=Safari
+Testing: csp_id=36, page_id=5000, browser=Safari
+Testing: csp_id=36, page_id=5100, browser=Safari
+Testing: csp_id=36, page_id=5200, browser=Safari
+Testing: csp_id=36, page_id=5300, browser=Safari
+Testing: csp_id=36, page_id=5400, browser=Safari
+Testing: csp_id=36, page_id=5500, browser=Safari
+Testing: csp_id=36, page_id=5600, browser=Safari
+Testing: csp_id=36, page_id=5700, browser=Safari
+Testing: csp_id=36, page_id=5800, browser=Safari
+Testing: csp_id=36, page_id=5900, browser=Safari
+Testing: csp_id=36, page_id=6000, browser=Safari
+Testing: csp_id=36, page_id=6100, browser=Safari
+Testing: csp_id=36, page_id=6200, browser=Safari
+Testing: csp_id=36, page_id=6300, browser=Safari
+Testing: csp_id=36, page_id=6400, browser=Safari
+Testing: csp_id=36, page_id=6500, browser=Safari
+Testing: csp_id=36, page_id=6600, browser=Safari
+Testing: csp_id=36, page_id=6700, browser=Safari
+Testing: csp_id=36, page_id=6800, browser=Safari
+Testing: csp_id=36, page_id=6900, browser=Safari
+Testing: csp_id=36, page_id=7000, browser=Safari
+Testing: csp_id=36, page_id=7100, browser=Safari
+Testing: csp_id=36, page_id=7200, browser=Safari
+Testing: csp_id=36, page_id=7300, browser=Safari
+Testing: csp_id=36, page_id=7400, browser=Safari
+Testing: csp_id=36, page_id=7500, browser=Safari
+Testing: csp_id=36, page_id=7600, browser=Safari
+Testing: csp_id=36, page_id=7700, browser=Safari
+Testing: csp_id=36, page_id=7800, browser=Safari
+Testing: csp_id=36, page_id=7900, browser=Safari
+Testing: csp_id=36, page_id=8000, browser=Safari
+Testing: csp_id=36, page_id=8100, browser=Safari
+Testing: csp_id=36, page_id=8200, browser=Safari
+Testing: csp_id=36, page_id=8300, browser=Safari
+Testing: csp_id=36, page_id=8400, browser=Safari
+Testing: csp_id=36, page_id=8500, browser=Safari
+Testing: csp_id=36, page_id=8600, browser=Safari
+Testing: csp_id=36, page_id=8700, browser=Safari
+Testing: csp_id=36, page_id=8800, browser=Safari
+Testing: csp_id=36, page_id=8900, browser=Safari
+Testing: csp_id=36, page_id=9000, browser=Safari
+Testing: csp_id=36, page_id=9100, browser=Safari
+Testing: csp_id=36, page_id=9200, browser=Safari
+Testing: csp_id=36, page_id=9300, browser=Safari
+Testing: csp_id=36, page_id=9400, browser=Safari
+Testing: csp_id=36, page_id=9500, browser=Safari
+Testing: csp_id=36, page_id=9600, browser=Safari
+Testing: csp_id=36, page_id=9700, browser=Safari
+Testing: csp_id=36, page_id=9800, browser=Safari
+Testing: csp_id=36, page_id=9900, browser=Safari
+Testing: csp_id=36, page_id=10000, browser=Safari
+Testing: csp_id=36, page_id=10100, browser=Safari
+Testing: csp_id=36, page_id=10200, browser=Safari
+Testing: csp_id=36, page_id=10300, browser=Safari
+Testing: csp_id=36, page_id=10400, browser=Safari
+Testing: csp_id=36, page_id=10500, browser=Safari
+Testing: csp_id=36, page_id=10600, browser=Safari
+Testing: csp_id=36, page_id=10700, browser=Safari
+Testing: csp_id=36, page_id=10800, browser=Safari
+Testing: csp_id=36, page_id=10900, browser=Safari
+Testing: csp_id=36, page_id=11000, browser=Safari
+Testing: csp_id=36, page_id=11100, browser=Safari
+Testing: csp_id=36, page_id=11200, browser=Safari
+Testing: csp_id=36, page_id=11300, browser=Safari
+Testing: csp_id=36, page_id=11400, browser=Safari
+Testing: csp_id=36, page_id=11500, browser=Safari
+Testing: csp_id=36, page_id=11600, browser=Safari
+Testing: csp_id=36, page_id=11700, browser=Safari
+Testing: csp_id=36, page_id=11800, browser=Safari
+Testing: csp_id=36, page_id=11900, browser=Safari
+Testing: csp_id=36, page_id=12000, browser=Safari
+Testing: csp_id=36, page_id=12100, browser=Safari
+Testing: csp_id=36, page_id=12200, browser=Safari
+Testing: csp_id=36, page_id=12300, browser=Safari
+Testing: csp_id=36, page_id=12400, browser=Safari
+Testing: csp_id=36, page_id=12500, browser=Safari
+Testing: csp_id=36, page_id=12600, browser=Safari
+Testing: csp_id=36, page_id=12700, browser=Safari
+Testing: csp_id=36, page_id=12800, browser=Safari
+Testing: csp_id=36, page_id=12900, browser=Safari
+Testing: csp_id=36, page_id=13000, browser=Safari
+Testing: csp_id=36, page_id=13100, browser=Safari
+Testing: csp_id=36, page_id=13200, browser=Safari
+Testing: csp_id=36, page_id=13300, browser=Safari
+Testing: csp_id=36, page_id=13400, browser=Safari
+Testing: csp_id=36, page_id=13500, browser=Safari
+Testing: csp_id=36, page_id=13600, browser=Safari
+Testing: csp_id=36, page_id=13700, browser=Safari
+Testing: csp_id=36, page_id=13800, browser=Safari
+Testing: csp_id=36, page_id=13900, browser=Safari
+Testing: csp_id=36, page_id=14000, browser=Safari
+Testing: csp_id=36, page_id=14100, browser=Safari
+Testing: csp_id=36, page_id=14200, browser=Safari
+Testing: csp_id=36, page_id=14300, browser=Safari
+Testing: csp_id=36, page_id=14400, browser=Safari
+Testing: csp_id=36, page_id=14500, browser=Safari
+Testing: csp_id=36, page_id=14600, browser=Safari
+Testing: csp_id=36, page_id=14700, browser=Safari
+Testing: csp_id=36, page_id=14800, browser=Safari
+Testing: csp_id=36, page_id=14900, browser=Safari
+Testing: csp_id=36, page_id=15000, browser=Safari
+Testing: csp_id=36, page_id=15100, browser=Safari
+Testing: csp_id=36, page_id=15200, browser=Safari
+Testing: csp_id=36, page_id=15300, browser=Safari
+Testing: csp_id=36, page_id=15400, browser=Safari
+Testing: csp_id=36, page_id=15500, browser=Safari
+Testing: csp_id=36, page_id=15600, browser=Safari
+Testing: csp_id=36, page_id=15700, browser=Safari
+Testing: csp_id=36, page_id=15800, browser=Safari
+Testing: csp_id=36, page_id=15900, browser=Safari
+Testing: csp_id=36, page_id=16000, browser=Safari
+Testing: csp_id=36, page_id=16100, browser=Safari
+Testing: csp_id=36, page_id=16200, browser=Safari
+Testing: csp_id=36, page_id=16300, browser=Safari
+Testing: csp_id=36, page_id=16400, browser=Safari
+Testing: csp_id=36, page_id=16500, browser=Safari
+Testing: csp_id=36, page_id=16600, browser=Safari
+Testing: csp_id=36, page_id=16700, browser=Safari
+Testing: csp_id=36, page_id=16800, browser=Safari
+[ERROR] page_id=16822 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16822?csp=default-src%20%27sha256-xpXyZQ6NWI4j2BgYVdANBMA6dYp6YPOq4aDgYoMvEow%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=16823 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16823?csp=default-src%20%27sha256-J23Jkn3a2nlZnPaiMYbwskTY3Bbz8F7cz4%2B2FGdcNkQ%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=16824 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16824?csp=default-src%20%27sha256-2nhVZqxs6A5tlEIH0TMpbzoGgVUYwH6hZiMejZuNhcs%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=16900, browser=Safari
+[ERROR] page_id=16902 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16902?csp=default-src%20%27sha256-8LkccV/ouEaIuqqjjSWPLHEl0O5PhYc9RRwlqXKhJ1U%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=16903 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16903?csp=default-src%20%27sha256-aiPcEijQcaK1Bw/V0tfqf7dXVEpYhVHqPllbaWEBY6o%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=16904 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16904?csp=default-src%20%27sha256-zEIckql3UZjAH3cLOkddI19sf8REFSDOO%2B85zvncPAQ%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=16982 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16982?csp=default-src%20%27sha256-p4b3bwRl8Wn0UVSEMtlJNELAhXKy3M5Ob8YlZrsUK%2B8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=16983 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16983?csp=default-src%20%27sha256-I1Tet3nWc3oGpp610DIRcdgmja9BBtA5RFK4PC4btmw%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=16984 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_16984?csp=default-src%20%27sha256-G7FAwFXkf5W%2BHiKWjSQ6Hx37opqT41VIpjskVKMGRCI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17000, browser=Safari
+[ERROR] page_id=17062 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17062?csp=default-src%20%27sha256-CWVvzq16IZ7%2B4wD/Yl0F3Ql5ejydZM1JVk1AhNMXjVU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17063 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17063?csp=default-src%20%27sha256-EyyJ%2BI86QfKZ64lVKR/veZUbKwyXOt0u/9u/BC/CTyM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17064 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17064?csp=default-src%20%27sha256-6TFxcVtvJxMX8cUuzVMLJ48WRClJH48xapcBr%2B%2B8nBs%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17100, browser=Safari
+[ERROR] page_id=17142 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17142?csp=default-src%20%27sha256-v1csVq1HYfQj0wz6Yf3fJZB1ptNuJwnoNKac4UjKZd8%3D%27%20%27sha256-WwCtCHc122qfz/Wk6Wk2hSsQ1xPnQj/5fE7mH/NSpK4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17143 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17143?csp=default-src%20%27sha256-3Dm5iDxGUUexOhZMAaltVIKIZW8baMo9lAfgpqiAWFs%3D%27%20%27sha256-QcqVNcG998QIk5R05p8jVL/GEbcxnqq7stY0uNm4Vyg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17144 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17144?csp=default-src%20%27sha256-wPSELejVZPNRPb0%2BiEDCWAUAC5W%2BRpwDcQNr9i/Po/Y%3D%27%20%27sha256-iO4inJrY25v3DXImlCDLAc3sdBa%2BVq27AMfu76FME1Q%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17200, browser=Safari
+[ERROR] page_id=17222 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17222?csp=default-src%20%27sha256-Ic6uxVJC1w21v7bZ9%2B50Ld7IVBqCEY4QMx9vNuQt2Co%3D%27%20%27sha256-maL1EGnm0eLuhh7F%2BNXhIRbpub25H6r4RTifhD4pKpw%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17223 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17223?csp=default-src%20%27sha256-YnunEhSiMWofeJzU2doizFULOsgzDgVKjMy6xPajF1U%3D%27%20%27sha256-V71pbzhurL/Y3We9emSUSB2n6wvZdpOF9Y%2BwHYhzdvI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17224 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17224?csp=default-src%20%27sha256-tVEuRUuw%2BeSRQqCplil0Z5cDkqIGMzln%2BHaZ3ToP4IA%3D%27%20%27sha256-5nBFvZSVJC3dsplJqxp6NXi7%2BAJfInTh98bFeSUZqoo%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17300, browser=Safari
+[ERROR] page_id=17302 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17302?csp=default-src%20%27sha256-qfwHfRpZcf/5XVZn90IQJfJ/IP5xvcLVgJA7yz8oIRk%3D%27%20%27sha256-rxbvpD3pB9AX5vHvuF8jAcdgjeIvQtD7zTkqzWDDybw%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17303 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17303?csp=default-src%20%27sha256-sfwn1AYxitb58TcKvigqMv5nwgWQ7H2aES%2By%2BkZ8XaE%3D%27%20%27sha256-agnQ1fYixchxmOVBJ36Ub2dXQOeT2595oSnlTrgO2oI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17304 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17304?csp=default-src%20%27sha256-fRohBS1gFbr9lJHWTjbG4EsOI6Z3jOPTXAl5dzPqES0%3D%27%20%27sha256-X0a9pVBPYz884eRqVSHTEY3Q0bnIhaBQmquLrgyscwo%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17382 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17382?csp=default-src%20%27sha256-iwdU6QfC63C4mnXUzs9kouoNLe/Npf8/Lj5uAigTKMY%3D%27%20%27sha256-Pg/2brLXlt2Pi3mC8w1F%2B3exZ5oeN4vnE%2Bt/feo6ew4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17383 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17383?csp=default-src%20%27sha256-Zas7V8hdhEHXPsQ1yAusdRHegUrwBppc%2B1W9smibp9Y%3D%27%20%27sha256-eJGT/MktoZFxTRQIh32Q/WMKHIKyxs6016CYdhOcgcM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17384 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17384?csp=default-src%20%27sha256-oDieJZFwd5roRmP5wcQXllKkgqAb3hSLXNDTy3NUct8%3D%27%20%27sha256-l2U8/dOMnVS3ESIs1u13Mk4PIi5KmIuKHzTrU462wio%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17400, browser=Safari
+[ERROR] page_id=17462 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17462?csp=default-src%20%27sha256-SHsDsJS4HAkC%2BT4Tf/GjcJtS2iT2jKq5bCV6sDKZU9c%3D%27%20%27sha256-9IQncXrryyonDzLdjcm77V3qhoGBPlegnlNwy6Qcn0o%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17463 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17463?csp=default-src%20%27sha256-bTOuRYhBOUkHyE%2B6VP0Hv7Sqyv/gYwkliBzZgBtAxxw%3D%27%20%27sha256-yMKNytVc6O2IjEc0tbJIl7SP75%2BnFjfCuVxg8r4tgn8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17464 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17464?csp=default-src%20%27sha256-Aq8V3wZ4oFflSCYFaJ1iyALFC2T8k/XUCaMdckgFYmc%3D%27%20%27sha256-hfBNqu7n9XJdIZhqSZ8TxDRmh7AGHVR8MwWuQTud9tw%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17500, browser=Safari
+[ERROR] page_id=17542 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17542?csp=default-src%20%27sha256-2yKJwGMYUbzk62RCRdNyMXrBWUUe4xW9lTucXQqGfMw%3D%27%20%27sha256-lZFpLW8DfwuZyVh5HhRWTNjYXscnnUPEzNy/3YK2XH8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17543 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17543?csp=default-src%20%27sha256-oODnlhgFc603x2nLT7yYpOib3c2R%2Bgqn7Zl4idV7y2Y%3D%27%20%27sha256-SEuzwAMOzqNHLvgQrkrE1t7WPqqH4a7ocMUOzISkkwE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17544 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17544?csp=default-src%20%27sha256-JV8%2BuYWucCiFtTvV0NDPOdnNkbuBNl/uJSvQj0/r7wo%3D%27%20%27sha256-g0V9NQHlb5XCDlnWS34D4EEB%2B3UR6LPJlNXf1Gk/MFM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17600, browser=Safari
+[ERROR] page_id=17622 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17622?csp=default-src%20%27sha256-jdQxd3Qsgr1MDPIo/U0Pj0%2BV6xSeP6hiTciXztrcd8g%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17623 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17623?csp=default-src%20%27sha256-wcA/vwk8CEbK/1OC844CNPp4CM2k2yQhUG/bp4XCquE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17624 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17624?csp=default-src%20%27sha256-1gsyQZFYbAOcE3PkxmoUTCtMyQFKdBueio5ycpoOQPs%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17700, browser=Safari
+[ERROR] page_id=17702 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17702?csp=default-src%20%27sha256-PIhMqYcaHeFUAt9eR7I5H7bOQbpVXVhUnVATP1WepVk%3D%27%20%27sha256-qY4arEYf3SBvPk6wvWz6ais2DE4fKqGeeFcvJrKhVL8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17703 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17703?csp=default-src%20%27sha256-YqpOlo3lJEX8zC0atH%2BBQkntt18hMuJMltnMGjHAlIc%3D%27%20%27sha256-iQlpE2k5eXnbnzPyk09zd9oqCYJ%2BxFaYxepGfXOvY2Q%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17704 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17704?csp=default-src%20%27sha256-l%2BZZoyhUlD8AxNpJm0Fqjbf718NCoYAeoS8TToOaAoA%3D%27%20%27sha256-lRv9Sx0TILxGeOxD1ZGnixqz2NPyEBQ8Z8D51%2B%2B3ZNc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17782 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17782?csp=default-src%20%27sha256-PAGwKXy14B/YlvLumxXriYkiY4D%2BNpqq0wIUvzsWAWM%3D%27%20%27sha256-49uUKFDN9cLx2uES2%2BI7eJmPJ1TnVgw3azxT5owcc7I%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17783 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17783?csp=default-src%20%27sha256-oIT0hyRooHKU7G8O5Lce61dyTaU6uC3HGIv/AxaQBg4%3D%27%20%27sha256-NS55Av5NVxCosVX6GdwI/TCau5AKJk9JBFbgKXfGiW0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17784 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17784?csp=default-src%20%27sha256-li/GXf8EVUPfxKbYksrkuw8aPWcljC%2BYNWRvw59rT8o%3D%27%20%27sha256-Tfnd1s44Z2jbA9wHE2cENBO8xqfLhQI53Guo2l%2By%2B74%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17800, browser=Safari
+[ERROR] page_id=17851 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17851?csp=default-src%20%27sha256-NBq8xMKpyTgSstoCZHNoWSoUwsdZAg8JHT9Ss/4sCx8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17852 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17852?csp=default-src%20%27sha256-6QQwRhCCgXgc21ierWGdp7fqiQLNzAM1RcvLs2S5tcU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17853 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17853?csp=default-src%20%27sha256-4HTrwd6QFjeN/Umju4BnxchgKxxyxlOfpWacSpdn87k%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17862 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17862?csp=default-src%20%27sha256-hmnaUr%2B31dVuS4F91bXZmVFJDd3J/s/o21/M10OQKxE%3D%27%20%27sha256-vMUEFKzR6C7x1sjUCalG0O6Tkhdf2xdcjbxLaLJYer0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17863 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17863?csp=default-src%20%27sha256-wTbgKLimwr8Bj8nMedlVOePi6MdZKbyfeycO13sxuRw%3D%27%20%27sha256-4UIDuxtjBcnw5m44HnIea5gJsengzw1IejpZGTmngeM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17864 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17864?csp=default-src%20%27sha256-N1iyCyV7rIuTEbQurLfceLP%2BdbHPRtoZktFHrZJybqg%3D%27%20%27sha256-wqFmOp2NffEh1pfCaH0/0mM94IaYGS4szZombWJUllI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=17900, browser=Safari
+[ERROR] page_id=17931 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17931?csp=default-src%20%27sha256-4DT7LpqgtoCFvCQqMQFb1GNJFHemMepLsO8QviKmTek%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17932 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17932?csp=default-src%20%27sha256-e7f0qSXOB0NlVB4QHu2H5J1fbxwZdS4WWSQgxQdBU3c%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17933 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17933?csp=default-src%20%27sha256-EDelEAyDENU2VF9QZACxP3QXymAa4UyLNgqnkHYq26c%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17942 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17942?csp=default-src%20%27sha256-eY%2BvFKJS6WYOBnKvDf04y0JcgQUDGQsPf6esP3NHlEQ%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17943 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17943?csp=default-src%20%27sha256-iLJ9OapGhisyRCLQPQMDnip/ajEBYVXs2Adkh6DM2Ng%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=17944 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_17944?csp=default-src%20%27sha256-7H0Qa/thDiA8%2BB93/kwgleM1axqfMrAzLKyh9eyWAjY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18000, browser=Safari
+[ERROR] page_id=18011 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18011?csp=default-src%20%27sha256-jpsnvT5S4QmVYK165Y7KvtxXpsesml1hhZY3qqPgiBY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18012 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18012?csp=default-src%20%27sha256-XEjF8On8i0ZfcqMXRpgl71XdcxWg/W96ghFzXG25ZwI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18013 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18013?csp=default-src%20%27sha256-I74oYQtjiNjEslgnHO6dAiO9Yd7zWl8btG0CHRGK0Ms%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18022 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18022?csp=default-src%20%27sha256-trKaUmznLOQFesewb4wY7UcMkDUZI1hA7WbNY50cwdU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18023 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18023?csp=default-src%20%27sha256-6RxKwSohZkyT/lE/54y/KcSrSzUFWkIG7m1x7BaEvHE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18024 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18024?csp=default-src%20%27sha256-FVFbeGGczSxjXA6UndlH0/YPHfe0kkRNaySSxtXITpg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18091 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18091?csp=default-src%20%27sha256-65tXvOBhkd9DOQB2u/hvGr3LmKjUxvubv8SElnfAhRA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18092 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18092?csp=default-src%20%27sha256-Bun%2Bay4JFcrdR%2BfX1gvxvgbgaSu9RqsyhbRttgxUmdc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18093 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18093?csp=default-src%20%27sha256-wErADzuaMGgo6l6tOPCW373ZkTB/ljFyIr1hLo0lp8M%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18100, browser=Safari
+[ERROR] page_id=18102 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18102?csp=default-src%20%27sha256-DqZoUkAk65JoNMSkhLTqRdv0uMH7FGTXXY50Hwc4%2BC4%3D%27%20%27sha256-XO6t6t%2BILfbuz4ylnbu9JNH0UhQ8tWEyGOKNh8QRZ/s%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18103 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18103?csp=default-src%20%27sha256-SrMMJWw81WQYNiiAsCJxs8MXvOdOxVzs8wxyXZG1E5Y%3D%27%20%27sha256-gcyxhLxud1ucznbJgS0GRrhlvaX7RQGbYp2rOiEWgr4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18104 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18104?csp=default-src%20%27sha256-3vyQpIzkMQmAqYgLgh3eUY4RzH79jez%2BJciTiCQqkyA%3D%27%20%27sha256-uFciiFh7QxdJWjHcqj8KGfbb8QuJNrWdHiUct3ZcAFs%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18171 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18171?csp=default-src%20%27sha256-aC4nORabRgtIwTzZKVjOmaWDdsvTxsoaCOUfR4R22es%3D%27%20%27sha256-Wta1FNdX5mTtnWnK8Lht%2B/mIgcFJxHVJr7aVBBsCdoI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18172 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18172?csp=default-src%20%27sha256-yxkCLaoEGy%2BU7njYatyGNFk3g8A9L39Oi0zhkt7KwF0%3D%27%20%27sha256-T%2BNR7JaLTRfr7iEuAfy8Mk7NNpYx8YrKmwU1MGf%2BAcY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18173 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18173?csp=default-src%20%27sha256-wYFerqfe/G6a3c7d/yMd7md6oB8pTn01O4bgvxLmiYQ%3D%27%20%27sha256-ISDnAER3aI/UW1HF/zUNbykPHw8ggdsa6Ttm%2BEkc0Mo%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18182 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18182?csp=default-src%20%27sha256-v8%2BlUI4Pn3AGP%2BnM7f7Bi4IvsicJ2kDcF8g96KEMiUE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18183 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18183?csp=default-src%20%27sha256-IiOIw4r37mT6FWrnFetGXrlTmORkMO3HN/HABXQfTRk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18184 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18184?csp=default-src%20%27sha256-MKsmQBjZSVcoupucuy1vTVAO4wJd76Df5VkwcJ7Ymn4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18200, browser=Safari
+[ERROR] page_id=18251 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18251?csp=default-src%20%27sha256-5HLqKEXyuDaXyrvJ4rkuDkhCBmtkSBeEZIC7INIbyGQ%3D%27%20%27sha256-nmiwcj4CfjEOlM5KaJhSb%2BJxXW2iDxfh7FCYQ%2Bqnab0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18252 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18252?csp=default-src%20%27sha256-eWEKCwtapawvuK7vIjQhVpcfWmEpn1EiBvoIVKLGNEU%3D%27%20%27sha256-/Z24eJTndPjWwiZYnbHkEGvhXUMXMAhzzowLtxvc04Q%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18253 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18253?csp=default-src%20%27sha256-UQSirnmgoFsz/Qwr0Z473LYacZ7As6hVXwYHNQGh7jk%3D%27%20%27sha256-FRwwZwaB5u2td0o5kUSact%2B4GlY5E42tDwphp/Qk3do%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18262 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18262?csp=default-src%20%27sha256-oqX0hGKTl1DJqcGU3hbfnCXE3c3uJRZwOzaqT4pnObg%3D%27%20%27sha256-RN1jeJzqbH9w5I6mFs/sbxob5c%2Bkqke3vftu7QtYdWk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18263 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18263?csp=default-src%20%27sha256-FpWT5kjA1oLwyLEf7r4BL90EqAtidZsnr1HAxrbY7oU%3D%27%20%27sha256-KCARZwaaYN9pgP3rGgC6vHiUz6J55BSdEwC7A%2B9KaN8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18264 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18264?csp=default-src%20%27sha256-D2JQw%2BCRS2F252GEkWGRzv5nzKEd970slDTsrRYSrco%3D%27%20%27sha256-2QQGifHju3VWu3yiJBfesJGPPKH3fdxVgsWjB05lkvU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18300, browser=Safari
+[ERROR] page_id=18331 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18331?csp=default-src%20%27sha256-Eyoxfsp9vCN0ewV6m24oJwl0jsCNwi1/b4XkpuQudiM%3D%27%20%27sha256-Z5ufK7L/L%2B%2BGjVy25JwbICFa3T4Em6cleMJnNLwvmdY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18332 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18332?csp=default-src%20%27sha256-%2B5Kwdjiao3v0PJpdWGCl366o1BEcbbK5m15Q5y176aQ%3D%27%20%27sha256-HVSE126zWXyWxk1Tvnhf5CrVOvezUyIuHxIcZE5ViY4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18333 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18333?csp=default-src%20%27sha256-k0c4I2zV1isIuTS2Xa3QdauunmhIoHhlJgsInxZRzMY%3D%27%20%27sha256-EbnZNXvxZ3mWCcDwKFrZM0mfSVKntfQf%2Bd1WQlYZAkk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18342 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18342?csp=default-src%20%27sha256-bA/SkdSflaOFdttjZVLoIiX9TFbXR7URRSLZ1kbU1U4%3D%27%20%27sha256-TIMmG5VYk67Ai2tTc87Kzxg4cTdbf3Mhl2x1jizFRMY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18343 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18343?csp=default-src%20%27sha256-L761MGum4FRPdr8PTlFcyLT4IqUQipW8gSk2%2B1uLeg8%3D%27%20%27sha256-KKCHPo53mxOtYk1XnqynRfeg5yNLzQW9gKGd2AMW/Dk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18344 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18344?csp=default-src%20%27sha256-dotoqO3uVSGgPvgD828M9/XWoDIsXM0qYCJY9u6LwXk%3D%27%20%27sha256-kleb15OsScUpkYnPdGVg9XTIPDsRvtRUgdYpPk9Rsnk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18400, browser=Safari
+[ERROR] page_id=18411 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18411?csp=default-src%20%27sha256-NPn/vdihZMvG7Sb68qGIFBO/HIjOQYHKa/VsDD4SR8Q%3D%27%20%27sha256-RL0VCFP8Kim77D1TiTBBPAfHk5EgyIOIWt/MX5o13ts%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18412 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18412?csp=default-src%20%27sha256-ym5fD8xwSoKFIsX3LD0VFZ5jvCj3LiHCAtDWzTOcg78%3D%27%20%27sha256-ZGxHlBDbZwgGalKClY3agcKSVl3uhPhlxxTei%2BwBjIk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18413 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18413?csp=default-src%20%27sha256-cKRPUNyncwsXRqmioJSkC5/vzs9QQK1fADfpHIAwOEs%3D%27%20%27sha256-NvWVHKpfAevlpehDCiCAjo5MeboYHrd%2BLGFUUpCLv7U%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18422 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18422?csp=default-src%20%27sha256-Mbw4ct/3SlP6MnoUhvVJ2EzACoXAxBJC%2BJ%2BgTdJgLI8%3D%27%20%27sha256-RjyOSZUHnOo/zAHdvBpob7mn9IgPaSBRB2bjJuTfFl0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18423 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18423?csp=default-src%20%27sha256-/yWCDkEWZPk%2BcFxBQByTvKwr%2BRifUOXJxzlvhl9z3Wc%3D%27%20%27sha256-GXsXdNUwUxbz2U5FdrG5T24h23bUk0gkOi0Zs1tahnA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18424 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18424?csp=default-src%20%27sha256-823gaAnRxkcQ%2B0ZAQgGewn996T2H4p4IYoduW2ur6Wg%3D%27%20%27sha256-O8LxNCcdfiIBpUyVkz0AkbJqFaVXBRQB9U065bHuJfk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18491 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18491?csp=default-src%20%27sha256-LyWWXMVaquvFrRI/b71UC1M7NaGZvD0QVlcemCq%2BLl0%3D%27%20%27sha256-eiJhaGcZQn%2BQq9r3w2%2BvT6gjp5LIjj6D0ehMJjQotpU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18492 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18492?csp=default-src%20%27sha256-KLKF9dKvnLtRFYn1BVIKFo/C8prynE37LSVGJr5fn6Q%3D%27%20%27sha256-nd3UhQw90SKly7SNGT4u%2BLU77T2swoHXDo3J7M9dngA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18493 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18493?csp=default-src%20%27sha256-Xwb7LZF5U5SprkaSgpAYCJFyfp1h912kmkf7uXVooW4%3D%27%20%27sha256-ecATpEWhAeQxF5eSPQfeJ4T1dN%2B4xwX4xFawr/orsnY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18500, browser=Safari
+[ERROR] page_id=18502 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18502?csp=default-src%20%27sha256-7UUeTtV0kVdt%2B4txTi8fZJefndTIgCIhP68QmLhvpsQ%3D%27%20%27sha256-UQEe3h9YC4xRLnNVDK9kzFLeubtcLKxAjdvTdxD16VY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18503 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18503?csp=default-src%20%27sha256-w4VDtHudOCroMV4CTUWmwHzRzuzyy1RUYaqMMuUhdrs%3D%27%20%27sha256-ihKPuEed246GsUHkXjFHtouA2BOVbJyoti1wiFvtMtE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18504 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18504?csp=default-src%20%27sha256-e2HZeG8XH02pPrkQSUzXvKooZKn8QTQuHshVIobbe7U%3D%27%20%27sha256-EWgCaBeiEXUkOGMKnHC/RNXIvQOSUrdJ14XwIn2dVVE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18571 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18571?csp=default-src%20%27sha256-sFYB9kBjBqwE0zteSbbMqLRHLrIhdGFSMrmI6LpXI5c%3D%27%20%27sha256-ejk/B5uPyL82oVgZ2n4eU0YUktxVgJzqrwVe2n2Vv0M%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18572 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18572?csp=default-src%20%27sha256-JsD1bg5wIoE/8WDYbDw9vIJaDookoG6Pimj4EzZwFdI%3D%27%20%27sha256-og/TiPCY8fznhUWgJEKH4LtVMDkBmZnZbdaDyeXDY4k%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18573 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18573?csp=default-src%20%27sha256-wJHr8JHpirVlHOscyi6iTxCmeMLsPgdbZVTXphCEwZI%3D%27%20%27sha256-%2BbuGE284wwoLwSs64ktHQYvG/M6SuyGkxJ3rEyz8MLk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18582 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18582?csp=default-src%20%27sha256-VqOo69e01xUwMfvvX3cCQRgYqbks4xrAxJrvxX95MoM%3D%27%20%27sha256-RsMoP8rZx%2BGSqQZpWIRd28MOFYA%2BUw4a9X8dfWtZMu4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18583 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18583?csp=default-src%20%27sha256-oE5s5XnP/qFGkdtuEZku6NzumY1iaV8oovALOBSxuTU%3D%27%20%27sha256-AnYQDJh9S/EGsIgQFB14JcP3v5t9mSsTr6/SMwrUGno%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18584 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18584?csp=default-src%20%27sha256-B%2BY9pGlqNuuKM0GwUBIkBe1oB1G4XX%2BaxHDbOtBrp%2Bg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18600, browser=Safari
+[ERROR] page_id=18651 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18651?csp=default-src%20%27sha256-J0qrOglxH7Hln/eXp329DFtEvcptKQ6KD9aViIRG1Ac%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18652 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18652?csp=default-src%20%27sha256-GLRE6MAtVoZJEXiy1qg/NdGhIEt5W%2BzJn2IL2W2JsYM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18653 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18653?csp=default-src%20%27sha256-eCS7OimEF%2BPXbunWgUKEnIqhrbc2xiMM7EEL8PMqHq0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18662 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18662?csp=default-src%20%27sha256-8f4AiBrhILpBwLMOtEe1M60HiywNtUtpKE0T49wGdlg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18663 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18663?csp=default-src%20%27sha256-S%2BTX45uRJRDgIPl6lMXqew2ETmb2%2Bih2F02Y8yHpDG8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18664 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18664?csp=default-src%20%27sha256-nAQL8lAR4Xx0wOhXQnyIS29k3RpqspkNU4c%2BPQcFF4o%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18700, browser=Safari
+[ERROR] page_id=18731 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18731?csp=default-src%20%27sha256-KbTzBaoxnpfcBRX2iC%2By0kyE4LlE3q1bjkB6c81Ekzw%3D%27%20%27sha256-KmkeSyuaH7u/hM7oAFq8NHg/kyMZv06W1APNFJnYB6s%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18732 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18732?csp=default-src%20%27sha256-0loVsf/dO39PtGlsCBkBnBjMS60JlSxZHF7aGa3UJg0%3D%27%20%27sha256-jz7Sun4URNMyL%2BUu9C1C0okcscHciu0IV8TOMTBMrto%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18733 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18733?csp=default-src%20%27sha256-csBHAcXaxZgTjwd6mGvrMsENDI%2B4TNlOiyTBuMlivXk%3D%27%20%27sha256-qWyBP%2B/Bjezubk4%2B/fsCaC3Qq8sUZcsnv9aTwJpckOk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18742 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18742?csp=default-src%20%27sha256-IYHtTiqpXvpSR%2BDJuRG/vv29yugc/uc%2BlRTYmGK9Ljk%3D%27%20%27sha256-pcCNDmSsztSjNTCEdR8lP6LZtjCmLEE7izmWmHoFCU4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18743 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18743?csp=default-src%20%27sha256-0CvfoZv2cL2J5WM3Q3SYINCE9Z1s2Pq43/3%2Bce9EvDU%3D%27%20%27sha256-cEhA8olrS5w5u3oY9/RLosRwTnMz5d/e85H0b%2BoeIl0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18744 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18744?csp=default-src%20%27sha256-IK6f7VQrQojlSdl7LZWEf3VFK%2BdRJJ4nxoORGF41ruQ%3D%27%20%27sha256-At/LaimVfK3f0I6XJaJ3%2BpNohZuQmHATwAPl3PiII7I%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18800, browser=Safari
+[ERROR] page_id=18811 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18811?csp=default-src%20%27sha256-6PeurETlA6i3OrJC0FNky5Dm0Kwx2dHfrPbtFCUud5Q%3D%27%20%27sha256-2Uzx1c4pQUCPZ9F%2Bij2nQXWZPtx7s5FLiqYlEkrSVz4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18812 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18812?csp=default-src%20%27sha256-idHJlv82BXdPKHsnN23XYHZaBqUou1K8Ird3Sk/k3bY%3D%27%20%27sha256-PxJ9ESJ96ez0awRCGPQfBhMQ6Ezleg1LycbkiDYNMLk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18813 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18813?csp=default-src%20%27sha256-SJpMPSG%2Bv%2BXRJ/x/InqhJi325yLZD8pgejGMWqDc%2BZY%3D%27%20%27sha256-8noHImzsp8CrePXkIgOBkrbC2/UmkDZje6G6p427/Kk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18822 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18822?csp=default-src%20%27sha256-mowYri%2BEQ22B2OAOT4aAFqFzh/yFzI93F2yb92zH5a8%3D%27%20%27sha256-fcV5JTLYZJ740GqpJXxD4/ZlpdANycrySGcr16Tg6I8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18823 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18823?csp=default-src%20%27sha256-5RIHkJ1sGPBcInSQh0HR3tJVgxsLDyj2Ek4r2RSM9oo%3D%27%20%27sha256-D%2BxyWuPsIvas4RokT0r5urjcmCXmks%2BAHyUqSRMx0PE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18824 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18824?csp=default-src%20%27sha256-Vai%2BpCEh2mEqP%2BzOr/fvcR8GG6h2QSVlo07ncp9JnuY%3D%27%20%27sha256-8lrSsAAJBj2UgrNcFYeUB9tKBmVm3KHAeann87NKLRA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18891 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18891?csp=default-src%20%27sha256-%2BjP8csZ8IumJSzD9SQuKfU0TJPBr/1upIKZtOjuoHHk%3D%27%20%27sha256-m9pYI0nt8zC/r38VLUm7Z3z9fwVWrBKnZkavwK4g6MA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18892 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18892?csp=default-src%20%27sha256-f7E75M23%2BaXPPn4aNwZrRe1fDykXM9Z8qOOOkABck7U%3D%27%20%27sha256-unTKDyv0NTG6YIEaMmLADMYLWnSy5gsgpcukcgsATYY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18893 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18893?csp=default-src%20%27sha256-dMQKicYCngjO7PRsBocTZgVrsAJnSBvu1Ua/sEYKlLo%3D%27%20%27sha256-nq5vYFthkEmAU1zrtyDlsJ6Ce20i48RLqU4uOVaY1Vo%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=18900, browser=Safari
+[ERROR] page_id=18902 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18902?csp=default-src%20%27sha256-PFN6GXpytOjd9jIkfPWLj8q6Sd%2B/kMjrufyK%2BNaSI34%3D%27%20%27sha256-9CKaHhha4XnXq2YgepM/ViDE0dHRR10GawaIyHA9ago%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18903 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18903?csp=default-src%20%27sha256-vyMg6uIvVlqVMGKxjXL/a8AgckRNBNM8lXML1oRCCOg%3D%27%20%27sha256-6o/splraHpngkHSi1p6pX32yCIZcICF5Q7EouJKZu54%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18904 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18904?csp=default-src%20%27sha256-%2BB3n5MUeETAZ9mTNFtcmEKvJ/gXIKkpmFXyph1EzA3w%3D%27%20%27sha256-flo5O4fxIXH%2B8YYWD29H0/rmudkJMs2g5ezzwfQElvk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18971 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18971?csp=default-src%20%27sha256-t9YUbxbFqIQK4s6oyPwpxVakk8IvRr51oTYe3Ijl0nc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18972 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18972?csp=default-src%20%27sha256-N%2B%2Bn0OEqC%2BOjfw1QEpoTCV2teh7bnckM01flHgBNd3g%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18973 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18973?csp=default-src%20%27sha256-uqtCgY9Vg4KBpaduF8YA0rlNJG5Q41oROxW4HIrfxCs%3D%27%20%27sha256-kFHbQK61JZoWNF7VDdukv04jjGeoERT3ar8H%2BNy0CWc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18982 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18982?csp=default-src%20%27sha256-oA%2BphN81RWwjqRtgylv4LcMqpu51cxpYHcOA/EKehy4%3D%27%20%27sha256-1i7nQkh4ggF2nhEMR9hCD37BRGJvVgva2k0qDkdNlRo%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18983 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18983?csp=default-src%20%27sha256-8dkWKbBw3vfeAnzUQB91jQk79gaIyaF4zHz78AdwIgs%3D%27%20%27sha256-0/YPdThX7BIsz8WgCtPHZS%2BrQWOROK0MQb/FBZjYFiI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=18984 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_18984?csp=default-src%20%27sha256-hgZHVREsrhETAeOvacAzTBxIsZ2kJnU01KwN8ayPz2g%3D%27%20%27sha256-eIYd92C%2B%2BXh830lGccxjU7bxKlBDYtt00YrdLf2vnbg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19000, browser=Safari
+[ERROR] page_id=19051 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19051?csp=default-src%20%27sha256-TW%2BLP4BqC30tv2tAhTnup8SFHh9brZS09dhIMe7P4Sw%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19052 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19052?csp=default-src%20%27sha256-xacjkt/9pzgwAWAFBP/b1mqSe/CTKGOSSa5uwMpKnII%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19053 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19053?csp=default-src%20%27sha256-yMSdWFt/GHJCboDfMqNLeHxnjJndbi1SGBXgAJ/ruSU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19062 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19062?csp=default-src%20%27sha256-kAuJ4QIGojVXfdsYF99nUtOz1hv35f3niAwFA9DB6v0%3D%27%20%27sha256-94YBbK2bofAH6LB213hgZYF8xzfFYN8w1AjmOuQlmOU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19063 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19063?csp=default-src%20%27sha256-j5nHIFmZ3MIf0s5SUDZad9Eehv866n1ioEqCE6uAdMs%3D%27%20%27sha256-rzChg5WCNZ2NJ2JlCxriIJTMOz/R1sTjcaC8iBQOwP4%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19064 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19064?csp=default-src%20%27sha256-RI3IwQCNbSdBvjIjauK/FQ%2BUqbY9vzksLvtopl4Lxt4%3D%27%20%27sha256-6Dgcgb/jW2Yc%2BS4UU/EpNc5OC3OTUr65D9IuIT20r3U%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19100, browser=Safari
+[ERROR] page_id=19131 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19131?csp=default-src%20%27sha256-XcktNSZb5PAphCrka3qluBcGRZnqBRT/3te66EB1Ihg%3D%27%20%27sha256-PeqAXhptDLgOPQ2gYnQSTx8D0eZOTft%2B5KOdqoSkwTU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19132 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19132?csp=default-src%20%27sha256-TmT2wwGaV/sVbTTlsHAdun%2BVI1ufJAiyJUwFgwJWcFQ%3D%27%20%27sha256-EznpkeL9Cs7wEcq6%2BDscv%2BaQyPEeroTIfHxWvh5T5cc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19133 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19133?csp=default-src%20%27sha256-zd1i8I21PSaK9n1ZyZUtfucMof8HoHlzqrQmJvH41%2BE%3D%27%20%27sha256-OtsbRaMydD4JsSIGBGIcgaz9q8Go5jb0r/27xug04/A%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19142 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19142?csp=default-src%20%27sha256-q7G6rNktOEI91/Dn7o1cfW3UvRR656OW9jqP5fAlMqQ%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19143 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19143?csp=default-src%20%27sha256-q9VTjdCTeqnMAlAZG0eKBVL5CWsAgQD5Te1BHXRrw88%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19144 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19144?csp=default-src%20%27sha256-eOhpJZXsYrOxb54EQsB4qqLUoeVorfkH0x16OdgvEGI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19200, browser=Safari
+[ERROR] page_id=19211 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19211?csp=default-src%20%27sha256-VpXvVAQEj7NpdILTMqaTHuY3qb69WRMt/COxn%2Bzkipk%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19212 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19212?csp=default-src%20%27sha256-7opbDLtHVAXzBnrG1GMVN15LqedUrCU8co75LNUG7aU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19213 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19213?csp=default-src%20%27sha256-GbprWvTA98vN3Y238KQgmDS9zS5qQGjS48givwIbCvE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19222 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19222?csp=default-src%20%27sha256-bAssO2bI07/Dqy8RhXseFqFqwD75poHDMgPavHQW2dc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19223 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19223?csp=default-src%20%27sha256-0oth00Ayz5sPytIQA7dBGNCBlQcouQBTHPB6uAiJJuQ%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19224 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19224?csp=default-src%20%27sha256-gOLSiidfuFJp7D0lcAU2KBvTazAzjlZF3rZwdi6zWbA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19291 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19291?csp=default-src%20%27sha256-jtpEIJws0sJkkGvbsuQBvDMUyt37iQE/HdzgNkVoZ78%3D%27%20%27sha256-PdYh4iywUmdvv9ZovR9W3jzB1ebH0L7XFTLx5zmiU%2BA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19292 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19292?csp=default-src%20%27sha256-GlaP%2BdWQ9exBvFoPn4X2IsGrOTvx/acW2yvJyiUTFvk%3D%27%20%27sha256-k4uLiYrqdr7dk0fRv8ecf6YCEyOEdUAn/xXU2q1GBx8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19293 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19293?csp=default-src%20%27sha256-ndDVqacXd2UExod0CYU974uz7MUQJV7uvYZQQ6Lo%2B00%3D%27%20%27sha256-3A47jTtcLM4GrVjTiJtKeqQoacB2kJHnDw6JWqAClTs%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19300, browser=Safari
+[ERROR] page_id=19302 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19302?csp=default-src%20%27sha256-emeJjFGHoLCXYr%2BSMqKWrznfVBE1VJzQcqfI5ZbsqDM%3D%27%20%27sha256-A2wzVHFkNKJyU4BIWuUhKzFtKuatby7lLBx%2BUKhdq4U%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19303 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19303?csp=default-src%20%27sha256-w8KHezPdVvC8JeyFbSQoZ46sI/8jpg1p%2Booxk%2BVnE8g%3D%27%20%27sha256-UNb5EeGq1g1mY9yYIMrHnk6%2Bo3PZ5tuP2AGz8Z2RaWE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19304 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19304?csp=default-src%20%27sha256-SPBBmgJTKOFLnF/izvdOl%2BNGZdt9W2S0p7UxMN9NaqU%3D%27%20%27sha256-ovKza5i7XutsKc6yZZUORjHU6PwnZgtpypvzqLLOpBM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19371 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19371?csp=default-src%20%27sha256-8TO98caiGw/MCT4DKKAP3yEIGlBHKeNVC%2BaKks8t4A4%3D%27%20%27sha256-HGSMgVLP05VNhs8EnFmoF5/8BArvFQAT53cJ6t/I6Io%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19372 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19372?csp=default-src%20%27sha256-MNPyq33la45BQE4YkiVl9SFmRgBjP7BgMzSVPNkJmhc%3D%27%20%27sha256-OKNnRSnEby5pnxLUvqvY3OIdkRrfLjO5Dz9/Kbmmqtc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19373 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19373?csp=default-src%20%27sha256-Hrc6xO%2BkcJhdbOqfP3K3i31RnWf3yp3nWcdHhFF3v7Q%3D%27%20%27sha256-Px4SvTUimz0H3AbepAONxdeClN9b210Jfnluz%2BWy8nc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19382 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19382?csp=default-src%20%27sha256-2jHno2N9np9Wnn9i5rFR2wWWC6ER9vAUEaL%2B8Dzn38w%3D%27%20%27sha256-w9fy3N8YRycyXBI0ayh%2BCa02wepAQwF2jmCs4jdA1ok%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19383 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19383?csp=default-src%20%27sha256-35eQt14tg2SFmjxlGeX/AZuF%2BPbsVDl6U6I0EqCmK7k%3D%27%20%27sha256-iY4d44yGIyDJJOzRVfXdIenS2l5N1J9zEmf0%2BxoS2y8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19384 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19384?csp=default-src%20%27sha256-nyfg0Aa2G56FTLAp1LxddAgGyavSJU6ekQX8wEUS%2Bps%3D%27%20%27sha256-hkduS0pZfejLE9CNmgu6Dt5Etqz%2BFR2uwE3ldJ%2BaXSM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19400, browser=Safari
+[ERROR] page_id=19451 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19451?csp=default-src%20%27sha256-QO8zl9U8CIL3ltfrLmxsPjQrONOkTJ3zkc3YV%2BQXYTQ%3D%27%20%27sha256-4pzhC0fg95OjbHksWVpVQxZ%2BUWdBG/YmEUvCGra6%2BtQ%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19452 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19452?csp=default-src%20%27sha256-JhBZPnbJreKMsC4P9tqEBY8tXqX2QSXKgOR8u06vL4k%3D%27%20%27sha256-v6Vz3h5Ea//wCFVmACR/MXCMBy0TdxJ4QoqvSgfY0WM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19453 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19453?csp=default-src%20%27sha256-lJoJpFBlEeg3khv3a0EpH13uEffd9kIovOJLsxF4x9Q%3D%27%20%27sha256-9E0JKlETbU02ZTLJEEEDQv14cGjYYds8eCKHEHF3I8Q%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19462 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19462?csp=default-src%20%27sha256-RePHF8Qch%2BnZPsQXpqzTmMAbC3M5etR2o9l9OSMgicY%3D%27%20%27sha256-aW/BuRrAJakQRbvqA4nVyp%2Bf8zLDibfYDNr/ThMtujs%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19463 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19463?csp=default-src%20%27sha256-UCULpagm5xoj4Fp7LEerSx3Xn0XNsuz6ZpVxJ5ml1sU%3D%27%20%27sha256-LY44CaJCP7ETFlq28URet5Nn301Z32toIhNYC5EPxwg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19464 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19464?csp=default-src%20%27sha256-jZCZnMrDWRPHBVWyZmZmf1uyxiXuzdyEy5uPwRpju/g%3D%27%20%27sha256-tUELTUVMGvRbjoYknymG3QjdoKTaMeCwwGvrDZFqeFE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19500, browser=Safari
+[ERROR] page_id=19531 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19531?csp=default-src%20%27sha256-mWmXfIxqDyFCpCbbSNJt5M5va2%2BccfkRA5g5CwoVCsQ%3D%27%20%27sha256-Bd6HQ7Cz%2BN4jkAIwgZ8gXjX/hjpKkCFCU%2Bf3cGKpw1o%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19532 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19532?csp=default-src%20%27sha256-TJBZHbLUMQqU694llJZVIo/6/RvshHO0s7wwLdym7v8%3D%27%20%27sha256-axU0IJR2wtol/6aUxN7zoeDRCvRMsUEZEyvoYFTCbys%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19533 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19533?csp=default-src%20%27sha256-AtkAAaEIBFGsSX7YYXonciNgPc3fu0A3JqQnDVxLldk%3D%27%20%27sha256-PxeomCQsRauZKeUJGB23EAxWNHcx5SfrIcKOlA9lbjg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19542 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19542?csp=default-src%20%27sha256-WKjXn/rl7sU0sl05nWTwOpxe5O7GajZyNfs3V2QmUcg%3D%27%20%27sha256-bASv47aw5rFowhqvD5D0wM0/eVq%2B7rhh1immrsaua7M%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19543 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19543?csp=default-src%20%27sha256-TBnWQz3wTb%2Bug1oFiv0uoRbijpQIovZm1m3y1PDaH54%3D%27%20%27sha256-6r4npW2UBeFuavh5r0Yl%2B97jL6MUh2S6GgCT9jmAH7M%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19544 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19544?csp=default-src%20%27sha256-7M2ulWUJd%2BoGNBL02LUQCnQrHtFUzRzkk1UxudgWMxM%3D%27%20%27sha256-0CdmiXH7%2B2Ovkdujh5AT0sRVrBxWPMmBntP7Fc/twHE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19600, browser=Safari
+[ERROR] page_id=19611 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19611?csp=default-src%20%27sha256-QMueP3i6FInzl4wDJ1e4/Yeehjf2QnMdk4UKC3PXLZA%3D%27%20%27sha256-mB9RSRuwonxCqyu3Yn7J5qCQ8kxmGuPS1eesgIvzxgU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19612 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19612?csp=default-src%20%27sha256-zFr7KfUA0Ts2YAG6G36rBFovqsJH8b4Uoi6bt4FuoJU%3D%27%20%27sha256-XvfEwzZ4N9MQLnbQJ8igDsTHgVY344VKnQpzlwwX4zg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19613 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19613?csp=default-src%20%27sha256-75TrOM%2B7vsD19vPQmkbCu0DVal6YUsuOWo5iqYytYdw%3D%27%20%27sha256-leR87dLoDAhBaU7nbXWTHAjO%2BPg8MEGsFFwP1UmG1Eg%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19622 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19622?csp=default-src%20%27sha256-ChTuvR6n0piWwBqFRMTPQWROn34vy6m0SnK%2BkUyzK%2Bw%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19623 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19623?csp=default-src%20%27sha256-g3dQ9Lavhs0qOEFJroRKapfUBewoBLXmjnp21yLCKzM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19624 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19624?csp=default-src%20%27sha256-ryXJUiV7564B1OU%2Bo4jn3DASgymIenPRvbz0egrs0Ps%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19691 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19691?csp=default-src%20%27sha256-mlztmfPW3Slhnx9FZvVgkGVYaJWcMivT8tUNbgnc7HY%3D%27%20%27sha256-KfZuBLYl72kgAnRrQ2cbCI1iwk0v4GLPzj970gpes3Y%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19692 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19692?csp=default-src%20%27sha256-dM1hLhONSwXS9nMyXhFpISIy8A%2BteznKur02j%2BzDuXI%3D%27%20%27sha256-%2BRpSbzEYPm3gJwl2TGY7PZDNWsShH61jZT2xZlvXgI8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19693 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19693?csp=default-src%20%27sha256-KN8K48pVoY%2BJn/l/sVE9SkBn2laozMldIIAdjwHQ5Po%3D%27%20%27sha256-guonp3ZiD/1KCRFmWi7Ha2YQqeaYwpeL0cdvcOKhdj8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19700, browser=Safari
+[ERROR] page_id=19702 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19702?csp=default-src%20%27sha256-BPD/08dD5ssrOC3G7v2DVFPE9/buke4M/SrpeHZsOxk%3D%27%20%27sha256-d1PA9rIJ%2B/Vf0aHXi/DCAPgRKiOpkpYIiRMZRJpme94%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19703 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19703?csp=default-src%20%27sha256-pvbABLoRNB5lyh%2BbD6NPD7W7J2PjKg/INhDRl/x92so%3D%27%20%27sha256-RRCe9D1ZBNDao4wXy5X%2B4Z//ktuE%2Bf0Lm9FZqBy1Fcs%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19704 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19704?csp=default-src%20%27sha256-DEyBc0T4oeFtiw7so0IMWhvoJuDtCfICHw6bvx68mc8%3D%27%20%27sha256-t5cGroyyQomfxnkr7HrH%2BJG3JpuW2CyaZE3a8QqzI4A%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19771 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19771?csp=default-src%20%27sha256-2HtCdz8euXkqf0LnwMYhn3vGfp1dsbkqAXx8%2B40Oncw%3D%27%20%27sha256-%2BVFwFka8oDzKPG6HrPJSTxr15mS8QNYPTLhKls0stmE%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19772 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19772?csp=default-src%20%27sha256-KrS7jAnrKPQE4cvwl6FtIz81RicLsJ0WLab7KigXpEk%3D%27%20%27sha256-v10H/nNsREz50bVmC8m8PZ7Ud/l2nSSf5yKaAOEpwX8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19773 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19773?csp=default-src%20%27sha256-wi/NCSVtn5klkBlHFvGsenfMgIg7PTCsBON8/g1nKXg%3D%27%20%27sha256-c1Hl5gBTaXPNamPwxG4mEfvAwZ7ERrcJ60qNvyvYJ0E%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19782 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19782?csp=default-src%20%27sha256-Qr4%2BpwsI2jeAD3%2BIUWOTztX7DN3WWc0sj0AyLSzofY0%3D%27%20%27sha256-hAZDJecKQ7RTuSrsElnMdZKoTBjFiAUq4VMblGxrtG0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19783 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19783?csp=default-src%20%27sha256-ZIvUbyNqoF2lC70qGeEhaw/JM9p8nROT/8Omakjg/%2Bs%3D%27%20%27sha256-qUIeeyndxMMEJALpiI3EPXFler/oFCEDW0b0YUpKWSI%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19784 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19784?csp=default-src%20%27sha256-KNpkT5otFXiNCP6vxjsV5ywxkUGOSwqSciJOxUEHRP0%3D%27%20%27sha256-KaOYYFfeLzpfsNLYeUGudSiYWJVrR6yQITOD8xBnHf8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19800, browser=Safari
+[ERROR] page_id=19851 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19851?csp=default-src%20%27sha256-nt84UvJDYliu8R/wv3D0tOVGfOCTCBcpB93uEHEthbQ%3D%27%20%27sha256-idh9vEtBH0TjVS8t%2B6HHVoA0KEot1EzgXPuDHnW33iA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19852 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19852?csp=default-src%20%27sha256-nNDM2H/%2ByNc4L9kJgNXzGIwvXxMEwYabyinfDR1%2BzXs%3D%27%20%27sha256-WGFwfPXLUQfT0ZiYs%2B8yXD3jKFDFKwdp4u2Ryn8SxO8%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19853 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19853?csp=default-src%20%27sha256-/bulW9nPG7lvM5oC6K4F%2B%2BlC48ea6mBCIjvMGpgNGZI%3D%27%20%27sha256-goSJOHzEDUbF0X0lAlRIQ22CynjwOB/y8MViaLohuQA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19862 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19862?csp=default-src%20%27sha256-VkBQR2zq1qh8DqO8hdypKTDs%2BuhemMjQM9HV4/CfGew%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19863 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19863?csp=default-src%20%27sha256-tv7d9k1bwZKUl%2BCK%2BUFaJw4lEddsWCBM6S8wRtBuHeM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19864 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19864?csp=default-src%20%27sha256-31nIjA9H0vMuyn8/hxDid681o061bONyeI7vQmdhNd0%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+Testing: csp_id=36, page_id=19900, browser=Safari
+[ERROR] page_id=19931 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19931?csp=default-src%20%27sha256-TX6rVm/L6hO2sSCKCmmWxh5sBTfTFAIwJfQSWDNwJmU%3D%27%20%27sha256-oQ8SqWRVIdPQySC0JKiWf0m/hR5ipx6jhiyfhLuxqfU%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19932 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19932?csp=default-src%20%27sha256-mgGsff%2BOB4qaVCpLde1%2B7IBTl3oomsXu7QRtyhAD9SY%3D%27%20%27sha256-roXVIENYsQYMUlybPRF3p881S1HGg9hO63zHjMFCHbY%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19933 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19933?csp=default-src%20%27sha256-PG/Q7bkmQtmZ2L84zQ%2BH9bmeDBg8KPv90%2BllLFwaNQ4%3D%27%20%27sha256-E/5Nc3ksmTJ%2BNO0Tp/59sjBSYrqRARYXjOU87UjVSPc%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19942 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19942?csp=default-src%20%27sha256-z5jTUKNOPrLPNbtsQ13uwv2kPAXHJ/4Auhd8GzUiuOA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19943 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19943?csp=default-src%20%27sha256-9pn%2B%2B9V7T0zfLkdETtVosf20nGCt4TLug5cFNrJJPbM%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19944 csp_id=36, Page.goto: Page crashed
+Call log:
+  - navigating to "http://127.0.0.1:7000/test/out_19944?csp=default-src%20%27sha256-oizvuMf0gQE9D2hgQaxt%2BPtX6Ox6NOFu3ITo9PqkbzA%3D%27%20http://127.0.0.1:7070;%20frame-src%20*;connect-src%20http://127.0.0.1:7000;&browser=Safari", waiting until "networkidle"
+
+[ERROR] page_id=19984 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19985 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19986 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19987 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19988 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19989 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19990 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19991 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19992 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19993 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19994 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19995 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19996 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19997 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19998 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=19999 csp_id=36, Page.goto: Connection closed while reading from the driver
+Testing: csp_id=36, page_id=20000, browser=Safari
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20000 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20001 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20002 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20003 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20004 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20005 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20006 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20007 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20008 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20009 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20010 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20011 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20012 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20013 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20014 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20015 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20016 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20017 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20018 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20019 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20020 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20021 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20022 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20023 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20024 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20025 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20026 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20027 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20028 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20029 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20030 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20031 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20032 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20033 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20034 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20035 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20036 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20037 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20038 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20039 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20040 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20041 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20042 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20043 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20044 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20045 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20046 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20047 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20048 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20049 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20050 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20051 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20052 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20053 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20054 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20055 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20056 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20057 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20058 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20059 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20060 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20061 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20062 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20063 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20064 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20065 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20066 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20067 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20068 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20069 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20070 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20071 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20072 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20073 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20074 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20075 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20076 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20077 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20078 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20079 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20080 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20081 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20082 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20083 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20084 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20085 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20086 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20087 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20088 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20089 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20090 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20091 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20092 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20093 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20094 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20095 csp_id=36, Page.goto: Connection closed while reading from the driver
+Testing: csp_id=36, page_id=20100, browser=Safari
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20096 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20097 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20098 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20099 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20100 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20101 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20102 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20103 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20104 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20105 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20106 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20107 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20108 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20109 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20110 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20111 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20112 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20113 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20114 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20115 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20116 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20117 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20118 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20119 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20120 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20121 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20122 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20123 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20124 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20125 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20126 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20127 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20128 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20129 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20130 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20131 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20132 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20133 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20134 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20135 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20136 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20137 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20138 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20139 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20140 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20141 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20142 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20143 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20144 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20145 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20146 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20147 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20148 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20149 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20150 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20151 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20152 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20153 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20154 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20155 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20156 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20157 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20158 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20159 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20160 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20161 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20162 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20163 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20164 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20165 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20166 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20167 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20168 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20169 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20170 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20171 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20172 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20173 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20174 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20175 csp_id=36, Page.goto: Connection closed while reading from the driver
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+pipe closed by peer or os.write(pipe, data) raised exception.
+[ERROR] page_id=20176 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20177 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20178 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20179 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20180 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20181 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20182 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20183 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20184 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20185 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20186 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20187 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20188 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20189 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20190 csp_id=36, Page.goto: Connection closed while reading from the driver
+[ERROR] page_id=20191 csp_id=36, Page.goto: Connection closed while reading from the driver
